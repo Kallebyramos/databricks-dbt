@@ -1,0 +1,5 @@
+.env
+profiles.yml
+*.pyc
+.venv/
+logs
