@@ -1,0 +1,31 @@
+version: 2
+
+sources:
+  - name: raw
+    description: "Raw transactional data. Loaded as-is (all STRING) — dbt handles typing and cleaning."
+    database: workspace
+    schema: raw
+    freshness:
+      warn_after: { count: 24, period: hour }
+      error_after: { count: 48, period: hour }
+    tables:
+      - name: raw_customers
+        description: "Customer registration data. Duplicate rows, inconsistent country/status, multiple date formats, names in CAPS."
+        loaded_at_field: data_cadastro
+      - name: raw_products
+        description: "Product catalog. Same product code repeated per country with localized names."
+      - name: raw_accounts
+        description: "Checking accounts and credit cards mixed. BR fields (agencia, digito) and MX (clabe) in same table."
+      - name: raw_pix_keys
+        description: "PIX keys linked to checking accounts. Key type and active flag inconsistently formatted."
+      - name: raw_transactions
+        description: "Financial transactions. Direction encoded three ways, currency in 4+ formats, free-text transaction types."
+        loaded_at_field: data_solicitacao
+      - name: raw_loans
+        description: "Personal loan contracts. Interest rate as string with or without % symbol."
+      - name: raw_loan_events
+        description: "Loan lifecycle events. Event types in pt/en mixed."
+      - name: raw_insurance
+        description: "Life insurance policies. Premium frequency and type inconsistently formatted."
+      - name: raw_insurance_events
+        description: "Insurance lifecycle events. Same inconsistency pattern as loan events."

@@ -1,0 +1,236 @@
+id_conta,id_cliente,tipo_produto,agencia,numero_conta,digito,clabe,data_abertura,data_fechamento,status,pais
+2d71ccdc-55b9-49f8-8ba7-f24953ca310f,dde6deab-0d47-42f6-8b9b-fdaf1362c864,conta_corrente,9921,2615622,2,,2024-01-26,,aberta,Brasil
+3d9b3061-287e-4927-bfec-1bfa05dbe6ec,dde6deab-0d47-42f6-8b9b-fdaf1362c864,cartao_credito,,,,,2018-04-27,,ativa,Brasil
+f0e67532-20e7-4703-9efc-2b5d07545fdf,0b16c0ac-38b4-4a1d-a502-74ceac188141,CONTA_CORRENTE,8681,8196691,3,,2023-04-03,,ativa,Brasil
+28712751-6b66-486b-9b6e-c959c078135e,0b16c0ac-38b4-4a1d-a502-74ceac188141,Cartão de Crédito,,,,,2019-08-11,,cancelada,Brasil
+486669ea-9aab-4003-a5a5-21c185655368,632d0e85-738a-4e7d-9b80-eb1162901fae,CONTA_CORRENTE,6145,4446353,5,,2018-06-30,,ativa,Brasil
+ab44e18e-63ff-4b5c-aa09-762b85db23fc,632d0e85-738a-4e7d-9b80-eb1162901fae,cartao_credito,,,,,2023-11-12,,cancelada,Brasil
+37b0e161-d0a9-4447-affd-b035617959d3,9c7a8bd3-d39d-400a-a7c6-dcb5abff66de,Conta Corrente,6523,3316405,1,,2023-11-03,,closed,Brasil
+1fa9ce0a-54fa-4d1f-bdbf-bbe66ae992f7,9c7a8bd3-d39d-400a-a7c6-dcb5abff66de,CARTAO_CREDITO,,,,,2022-09-14,,ativa,Brasil
+d878d87f-e287-4ca5-8e0a-eef3cc7ce7fc,7f5df058-f102-4d56-9f53-b3b5dc151a65,checking,1445,2075091,4,,2020-01-17,,aberta,Brasil
+4685e4be-e4f2-467f-bb31-6db1de026055,1810cdd3-afb6-49a5-80d1-1b295f66377b,Conta Corrente,3191,1563871,9,,2023-12-16,,fechada,Brasil
+cf2c6b3f-6456-41b2-8f76-5c5f2969c592,1810cdd3-afb6-49a5-80d1-1b295f66377b,Cartão de Crédito,,,,,2017-01-02,,ATIVA,Brasil
+40e37f24-46ef-411f-a97e-7a3f54bd2f45,8eb994d5-0215-4b82-a862-31d107db4880,Conta Corrente,,,,,2019-03-09,,ABERTA,colombia
+f4a63a15-06e8-47d8-9c6b-f34e71865163,8eb994d5-0215-4b82-a862-31d107db4880,CARTAO_CREDITO,,,,,2019-03-08,,ativa,colombia
+cc0ba199-6cc7-495a-9fa4-6389915443fe,05bb989a-e278-43a5-8f6a-8fcfa3f9d738,Conta Corrente,8814,5196677,7,,2024-01-21,,ABERTA,Brasil
+26cd251b-a62e-4f5a-b5f7-1e4010e016de,05bb989a-e278-43a5-8f6a-8fcfa3f9d738,cartao_credito,,,,,2019-11-23,,active,Brasil
+241e4230-489d-409f-9cd6-cb83bed1f5b2,f277514b-906a-4510-a55d-1996d5ee24b3,Conta Corrente,,,,,2022-05-17,,closed,CO
+b7b498db-2b31-453c-8b93-70e8d35e340a,aa5bdb42-386c-4ad2-be20-89821babb846,conta_corrente,,,,,2020-06-01,,closed,colombia
+61018fb4-ac28-42b7-a735-3f9038913a0e,aa5bdb42-386c-4ad2-be20-89821babb846,cartao_credito,,,,,2019-02-18,,ATIVA,colombia
+5f38b214-86c5-42fb-a021-ae0891ac8212,44a320a4-729f-463e-8ba0-6b14786836af,CONTA_CORRENTE,1965,2316802,7,,2021-03-19,,fechada,Brasil
+5f0fa291-3beb-4eac-9727-e8bda6cb5b21,f254f645-7774-4859-be97-b3f81cbf6ed2,Conta Corrente,8042,4068080,8,,2021-12-13,,fechada,Brasil
+5b0a36db-9b73-4165-9cb8-0d3c03bf3f19,f254f645-7774-4859-be97-b3f81cbf6ed2,Cartão de Crédito,,,,,2021-06-01,,cancelada,Brasil
+87e5549d-17bb-4995-bfab-3e05e38f6e8e,1851ba66-3c89-42e5-9ea3-973aa7113413,checking,,,,,2018-07-05,,fechada,Colombia
+8774c6bc-db83-45e4-a528-511ec6847de7,7d203836-ee85-4d3c-b8cd-f9128713a769,Conta Corrente,5996,4085559,7,,2021-05-12,,open,Brasil
+6be9ce86-f40a-4385-bc83-de9f146e1a03,7d203836-ee85-4d3c-b8cd-f9128713a769,CARTAO_CREDITO,,,,,2018-06-22,,cancelada,Brasil
+e20a3665-dcdf-4aac-a61a-e08708c53675,ef349a63-d5f9-48d3-9692-c6cd49d927c6,conta_corrente,,,,,2020-08-12,,fechada,Colombia
+d7d1e979-1fa2-46da-aa92-e60c4d46194d,ef349a63-d5f9-48d3-9692-c6cd49d927c6,credit_card,,,,,2018-07-05,,ativa,Colombia
+48442032-587e-4b8d-9cea-00904283224e,59fd2eb3-b9b6-4371-a27d-7d10941d6e29,Conta Corrente,7808,2615677,7,,2020-03-31,,open,Brasil
+c8a43e30-a384-4fc7-b14e-0349d102f288,59fd2eb3-b9b6-4371-a27d-7d10941d6e29,cartao_credito,,,,,2020-12-09,,active,Brasil
+8a4e7402-0936-40e4-bea4-bf0cfbc79a0c,d800fcc6-7a85-498a-bdf8-02458ed9db45,CONTA_CORRENTE,6244,5807067,7,,2023-11-18,,ABERTA,Brasil
+bfda7f14-5b83-49e1-a69d-118b5ec9fc78,92e5516b-e50b-4692-90bb-e3851395b233,Conta Corrente,,,,,2020-03-25,,fechada,colombia
+f995ca84-6d91-4a51-a47b-32fc6f13ab4b,92e5516b-e50b-4692-90bb-e3851395b233,credit_card,,,,,2020-01-17,,cancelada,colombia
+87f1d10b-c408-4d47-98c3-c3b9b4af5f8e,4b126fce-634d-40f2-932a-c7b88d167f1a,conta_corrente,,,,,2020-06-23,,closed,colombia
+5d055bef-b3e7-4f6a-84d4-b9ff3790467c,ccfcb1c2-95ad-4254-8abf-daf81f9d3892,checking,8986,1903041,0,,2022-11-13,,aberta,Brasil
+8ce15ee5-2a55-461f-bce8-8a0434397aec,ccfcb1c2-95ad-4254-8abf-daf81f9d3892,cartao_credito,,,,,2019-10-11,,ativa,Brasil
+28f436c7-39f4-4684-b1bd-aa05b673d36f,dbca6eff-e4f6-4f49-bd18-97252d3a9801,checking,8857,5570355,8,,2022-06-01,,closed,Brasil
+79c46763-4b58-4fd3-977b-09a7cd2707d5,e911618e-ac06-454c-83e1-3e23e3bd41fe,Conta Corrente,6754,5358838,2,,2020-12-17,,fechada,Brasil
+753fa8dc-14d2-4890-b416-348ad370d7c3,d0ab0d7b-80f6-476c-bd29-fcf6b3895271,checking,7817,6026630,0,,2023-09-04,,fechada,Brasil
+b0e4fa80-e37d-45f4-8b9e-ca85fc7b5870,d0ab0d7b-80f6-476c-bd29-fcf6b3895271,cartao_credito,,,,,2023-04-16,,cancelada,Brasil
+75342296-f376-4858-834d-ef38835fe3f5,1a0d5112-7f06-4160-8b90-9fcdc08ad9d0,Conta Corrente,4665,9924543,4,,2019-04-21,,ABERTA,Brasil
+4713bb7a-8481-43a8-a2ac-9a64068b09ce,1a0d5112-7f06-4160-8b90-9fcdc08ad9d0,cartao_credito,,,,,2020-01-20,,ativa,Brasil
+893b07db-f2ef-453a-b613-984740e6981d,744a6938-6f30-4afa-a075-9e68e2822eac,checking,0135,4905912,1,,2019-07-24,,open,Brasil
+546f8aa3-3bf8-4e50-ad69-ad9ed777bef4,744a6938-6f30-4afa-a075-9e68e2822eac,cartao_credito,,,,,2017-05-10,2021-10-03,cancelada,Brasil
+cf237740-d491-4dc7-a60b-828bbb8bef31,2846366b-3440-4482-a3fe-85c06d1f0ce3,CONTA_CORRENTE,1999,5176895,6,,2020-07-27,,closed,Brasil
+c9e3472c-e6f9-473a-b77f-28c11060334c,2846366b-3440-4482-a3fe-85c06d1f0ce3,Cartão de Crédito,,,,,2018-01-20,,active,Brasil
+b79d3819-d07d-4107-a51a-afc448bb4bc9,4720d1de-d121-412e-aca2-860a94aafdb0,CONTA_CORRENTE,4151,9073692,4,,2018-11-20,,closed,Brasil
+8b092c90-224d-4253-821f-3b2edacf4b76,4720d1de-d121-412e-aca2-860a94aafdb0,credit_card,,,,,2020-08-22,,ATIVA,Brasil
+6cda7fd2-1367-48b7-9f07-2b9aaaab699c,912375d5-eb60-4882-bf36-252c7f8472fd,checking,9769,3600333,5,,2018-11-20,,ativa,Brasil
+ae0e99f1-72e1-40e3-b35e-78f1ec6e0fa1,912375d5-eb60-4882-bf36-252c7f8472fd,CARTAO_CREDITO,,,,,2018-09-23,,active,Brasil
+cb3c749c-bfde-42ff-b07d-4c7bbbac9f68,09c4b041-7de6-4ca3-b9c6-b62a6d88ba8e,checking,,,,935175371705998710,2023-05-02,,ativa,mexico
+e75129ba-699a-4836-a60a-e5c4e613cd42,25cfb864-8485-4122-b1c2-2064eec33649,Conta Corrente,,,,944402490318045181,2023-11-29,,fechada,MX
+c6279275-a975-4dc4-983a-4f4018560cc9,b94723e5-2797-4a19-ba90-ea015a49cca8,Conta Corrente,4315,7159129,7,,2019-03-10,2024-11-10,ABERTA,Brasil
+a628cbb0-3fcf-4d7c-bb0c-432a734c47aa,b94723e5-2797-4a19-ba90-ea015a49cca8,CARTAO_CREDITO,,,,,2021-01-31,,cancelada,Brasil
+5ccec956-1b81-404e-b904-4d721a107ed4,f3790cdf-ebb3-4a33-87a9-7aa55c9ae2a5,Conta Corrente,5286,7875379,5,,2023-12-29,,aberta,Brasil
+fa0069cc-6451-4df4-9aee-1997c8b1ac9a,a5c393b2-0dee-4717-a953-013dd4910d56,checking,8027,9821818,9,,2023-11-10,,open,Brasil
+3f0df795-219f-472f-a874-fbb81f157567,a5c393b2-0dee-4717-a953-013dd4910d56,CARTAO_CREDITO,,,,,2017-11-24,,cancelada,Brasil
+db88a0f0-14de-4216-97ec-7554b10d8095,df9115a3-fd5e-437b-8318-e7856cfad62e,CONTA_CORRENTE,,,,,2019-01-25,,aberta,Colombia
+737d484c-d447-4dae-9f63-f21c1b4a2bb8,99ed4585-91dd-4669-ad26-0d32ea0776cb,cartao_credito,,,,,2019-08-05,,ATIVA,Colombia
+8b7ff3eb-c3dc-4ee7-a25d-241a8ef27b40,95c31876-6a24-4030-bca2-fc84e4e89f47,Conta Corrente,,,,,2023-01-26,,ativa,CO
+e11c3243-1630-43bd-a831-63ae379c39a1,de587836-ecf0-4e7c-afc7-d4ab84045fcf,Conta Corrente,,,,282365035766743678,2020-06-08,,open,Mexico
+6de9c169-c8bd-4e05-8423-35ce12b49991,86a67377-dd16-4f88-8e34-cfed94f75408,checking,5300,5038654,9,,2022-01-20,,fechada,Brasil
+db076b2a-83e2-4ec8-a5d0-3bae7e14945b,86a67377-dd16-4f88-8e34-cfed94f75408,CARTAO_CREDITO,,,,,2022-01-28,,ATIVA,Brasil
+be84a452-c006-4125-94f3-6d540ace7909,952b4bd4-b931-4a2b-9656-4605cb9e4096,credit_card,,,,,2020-05-15,2024-12-23,active,Brasil
+46cb84aa-1567-45c4-b612-4057f49178fb,f7965721-7678-4c8e-8fe3-1b257b50c17a,CARTAO_CREDITO,,,,,2023-05-27,,active,Colombia
+5f176f9d-8c5a-4583-83fb-72df4dea3917,f2d0172d-1658-4e22-8003-d871c91e3769,Conta Corrente,1506,7707501,9,,2021-03-20,,closed,Brasil
+ebd19bf5-5ad5-424b-aa2b-ee89c410284c,8a4b15ba-a076-4d0a-a9f7-7a7bb9a7831b,CONTA_CORRENTE,9442,7401281,1,,2019-06-26,,open,Brasil
+bae4364b-f527-487d-871d-966e73d4c0de,0acb381e-fcca-4b32-b397-404197f93553,checking,0887,6113416,8,,2018-07-17,2024-08-05,open,Brasil
+a453e830-55bf-44de-a5a9-ef11095aaa7f,0acb381e-fcca-4b32-b397-404197f93553,CARTAO_CREDITO,,,,,2021-05-29,,cancelada,Brasil
+a9296672-0982-438d-bf4b-fa32b6e7e96d,e699502b-8c2b-4ecf-bd3d-3a8ed403bd70,CONTA_CORRENTE,,,,560236233798563660,2022-03-08,,ativa,México
+b8145f5a-570c-49b6-8519-8151a43d69a7,f2272217-cdf9-4d2f-87d2-e6c3b91ce7d4,checking,6477,4290000,8,,2019-12-05,,ABERTA,Brasil
+211bfe34-1123-4e85-86ea-d81beac8e5b7,f2272217-cdf9-4d2f-87d2-e6c3b91ce7d4,Cartão de Crédito,,,,,2023-06-18,,active,Brasil
+a80313f0-a275-4a8c-a234-5230b6ad2c81,e073a8f5-17b7-4c04-a2e3-582037893a80,checking,2390,8389750,0,,2018-09-08,,closed,Brasil
+57ac484d-d3dc-49bd-8399-034da1c4dbf0,e073a8f5-17b7-4c04-a2e3-582037893a80,credit_card,,,,,2023-12-19,2024-12-08,active,Brasil
+882d37bd-5116-4b4f-b67c-5fef9f7c9c62,fca35382-0c9f-4de5-bc03-b98e0612c3ec,conta_corrente,3340,9778944,4,,2018-09-02,,ABERTA,Brasil
+cab653f5-d0ee-467c-bbe3-25b9e41d6ef4,fca35382-0c9f-4de5-bc03-b98e0612c3ec,credit_card,,,,,2017-09-04,2017-10-08,cancelada,Brasil
+bc0fcee8-bd21-4873-9d97-6fa4a80816d5,653893f6-baf1-40cc-a0a1-17e97954296f,checking,,,,686307082428719703,2022-06-15,,open,MX
+8856b5f3-ddb5-42be-889b-d7611c36b938,653893f6-baf1-40cc-a0a1-17e97954296f,cartao_credito,,,,,2023-09-12,,ativa,MX
+c1a6071e-aaf7-4943-b063-7f28317b9f95,5244c273-f217-4b40-a1a6-7dc9b68757a1,checking,2573,1308234,5,,2024-05-08,,open,Brasil
+0a2d292d-c182-4084-a3ab-8ea0be5cee32,4726c719-5141-4536-a4bf-e84a28d561b8,conta_corrente,,,,857390756755380267,2018-09-29,,fechada,México
+94a7ec0e-5e4c-4383-90fc-543778a42c7a,522d456d-2d7c-404a-aac2-155ae4c30f0b,conta_corrente,6988,6240913,9,,2020-12-18,,ABERTA,Brasil
+19667da3-5116-48a7-bedf-6ce4845bd1b4,522d456d-2d7c-404a-aac2-155ae4c30f0b,cartao_credito,,,,,2022-11-16,,ATIVA,Brasil
+bae7abb5-d2ba-4e31-8c78-6b4c32663345,fdbe0957-10c9-4ccb-b047-3d9cf12339cd,Conta Corrente,2385,1494648,5,,2024-05-23,,ativa,Brasil
+68e78a2e-f740-4242-8742-e864c92659e7,fdbe0957-10c9-4ccb-b047-3d9cf12339cd,credit_card,,,,,2019-01-27,,ATIVA,Brasil
+e9471104-b160-4b30-a174-494012490cd5,98fb96ac-b250-49b9-880f-a5b759a346df,checking,,,,679140812472025152,2018-09-15,,closed,México
+82e9e38d-73dd-4daf-98f3-0442bdd05186,98fb96ac-b250-49b9-880f-a5b759a346df,cartao_credito,,,,,2021-05-07,,cancelada,México
+90a8b76f-fb9b-40f5-8ae0-9303ab8ebdc5,162e9bbc-41ea-4680-8375-bcfff15da23a,conta_corrente,3352,2109583,2,,2018-08-01,,fechada,Brasil
+275578a2-bf51-43e1-b954-6e99336903ba,162e9bbc-41ea-4680-8375-bcfff15da23a,Cartão de Crédito,,,,,2017-06-21,,ativa,Brasil
+f3973f73-3e97-4990-a110-1290a45a9b34,0126a3ef-9bec-4dfa-82e3-e9dda2527599,CONTA_CORRENTE,,,,698023443394829617,2023-06-24,,aberta,mexico
+139adec0-c432-4684-a985-47f6f6775bbc,0126a3ef-9bec-4dfa-82e3-e9dda2527599,credit_card,,,,,2022-10-16,,active,mexico
+ed6a41b1-c4bd-4d08-b08f-ad2a009929ca,96f36e9f-cb7f-4b57-8755-f0658d6758d1,CONTA_CORRENTE,8471,3386384,7,,2023-02-25,,closed,Brasil
+2ff37cf1-05e8-4db4-a56b-bc9fc4e4a9b8,96f36e9f-cb7f-4b57-8755-f0658d6758d1,Cartão de Crédito,,,,,2020-08-17,,ATIVA,Brasil
+8046fae9-89fb-4ea6-9d67-10e69e6e5ff5,b2acf8b2-562b-46ac-8275-3d5b0b8c9580,conta_corrente,2025,2529935,1,,2019-06-05,,aberta,Brasil
+0b87bb07-0e0f-4d9f-be90-b437f4469614,b2acf8b2-562b-46ac-8275-3d5b0b8c9580,cartao_credito,,,,,2017-06-29,,ativa,Brasil
+c3aa8637-8e45-455f-843d-f94e6703baa0,d6f9916f-5272-49f9-9b6f-f5e353fa1d4c,Conta Corrente,2961,2972228,2,,2021-11-19,,fechada,Brasil
+154b015b-0d0d-49c7-ad38-1d36224ae31e,d6f9916f-5272-49f9-9b6f-f5e353fa1d4c,Cartão de Crédito,,,,,2022-08-05,,cancelada,Brasil
+fb6a78dc-1094-4852-8e87-5e325deb9fed,03d1c707-30ac-42af-a535-eddf0b5d7e88,CONTA_CORRENTE,4010,5665960,9,,2023-05-15,,ABERTA,Brasil
+5c9b38fa-de0b-486b-877e-c1ee1607b6a4,03d1c707-30ac-42af-a535-eddf0b5d7e88,credit_card,,,,,2017-05-31,,ativa,Brasil
+23238480-4d09-4b93-9216-5e9402e5b734,8130fa77-eae3-47e8-8e5d-5bacef09b83a,conta_corrente,,,,,2020-05-31,,open,CO
+ff86fab8-b2c8-48b9-9ce6-c605ffd5e8f7,b6793120-d305-402f-8803-457220d258eb,checking,,,,178014369308139229,2021-10-08,,aberta,mexico
+33feb556-1ff5-4dd9-aa5a-704ef0d6073f,b6793120-d305-402f-8803-457220d258eb,credit_card,,,,,2018-07-06,,ATIVA,mexico
+2ce8311a-184d-4d48-b7dc-ba0afd6c09de,6e90b6fd-9e28-456f-8056-ed99bdb1e419,CONTA_CORRENTE,7925,5818203,6,,2019-01-25,,fechada,Brasil
+8158649a-613e-4259-92dd-1a81fffa87ab,6e90b6fd-9e28-456f-8056-ed99bdb1e419,cartao_credito,,,,,2024-02-02,,active,Brasil
+3848a4b9-c866-4e59-9172-34c69164c913,4a8c4118-85cf-46cb-8a6f-acdc60391fb0,CARTAO_CREDITO,,,,,2017-04-09,,cancelada,MX
+44a033a2-4651-48c5-94e6-87913bfb3073,7ff8f3ad-6869-412a-b3a1-1fb69ac6f9d8,conta_corrente,0186,4375360,4,,2022-02-27,,open,Brasil
+0872db26-fcde-4e15-98eb-2fdd191d3f24,7ff8f3ad-6869-412a-b3a1-1fb69ac6f9d8,CARTAO_CREDITO,,,,,2020-10-30,,active,Brasil
+0d8e72a3-2c8e-4f30-b79b-eb2db58f21c8,5d03d788-89b2-436b-ba07-b55b613fad10,Cartão de Crédito,,,,,2022-04-28,,active,Brasil
+0203b905-10c3-42ef-b8fa-5155b923e34a,d203d03e-2824-420c-9660-f9225feba484,Conta Corrente,9257,6293259,8,,2023-01-21,,closed,Brasil
+34bdd388-1431-47d8-b5bc-8e6c8b18531b,d203d03e-2824-420c-9660-f9225feba484,cartao_credito,,,,,2017-05-08,,ativa,Brasil
+8609b0b5-7795-4790-902e-958a8d076e8f,bc23a51b-ed31-4ebd-990e-9fb6c201459a,CONTA_CORRENTE,4449,7943579,1,,2021-11-14,,ativa,Brasil
+36117480-7805-46bc-9d21-557a828a1821,bc23a51b-ed31-4ebd-990e-9fb6c201459a,credit_card,,,,,2022-11-21,,ativa,Brasil
+3d97db6d-aded-4d30-be13-83b1563855f9,e4054985-8f68-4689-b4a1-aa8b2716cf10,conta_corrente,,,,492126937233995387,2018-09-11,,fechada,Mexico
+aabb663b-791d-40a1-a4e6-e992fd0d18b1,e4054985-8f68-4689-b4a1-aa8b2716cf10,CARTAO_CREDITO,,,,,2020-09-02,,ATIVA,Mexico
+af145bf5-6a1f-4357-b983-bc9db01e6c09,897ee6a6-9cb7-4189-9b40-48a0f6626ec3,CONTA_CORRENTE,0068,6217400,0,,2018-10-28,,aberta,Brasil
+5c6704d9-00fd-4447-a0ae-ccd9180a2a9c,897ee6a6-9cb7-4189-9b40-48a0f6626ec3,credit_card,,,,,2024-05-23,,ATIVA,Brasil
+d914eb04-8036-4e40-bc3e-5ff248542ccd,204de78f-ce4c-4602-85e7-7690fdea78f3,checking,,,,235642186850945295,2021-07-08,,aberta,México
+ca434ce6-d1ee-4ebb-9e2b-b243fd8adceb,204de78f-ce4c-4602-85e7-7690fdea78f3,cartao_credito,,,,,2023-12-27,,active,México
+77babf84-457a-41b6-b263-5b4c3088cab3,f24ec397-e9d0-418d-aa36-2bcd9d31a382,CONTA_CORRENTE,5102,6683095,8,,2021-08-04,,ativa,Brasil
+2010cee3-73d3-4993-825b-3dc2b5b9680b,f24ec397-e9d0-418d-aa36-2bcd9d31a382,Cartão de Crédito,,,,,2021-04-21,,cancelada,Brasil
+5abd6a57-844b-453b-b027-9aaf6dbdd1c8,07860425-d1c8-4101-b039-8b0fd94e81ae,CONTA_CORRENTE,,,,,2021-12-01,,ativa,Colombia
+9944bd35-578f-41d7-9510-7997e4bba30f,07860425-d1c8-4101-b039-8b0fd94e81ae,Cartão de Crédito,,,,,2018-01-16,,cancelada,Colombia
+a87cb378-4403-4791-8cf3-5827965efeae,413c184b-2c0a-4a6c-98bf-6bc63f8e6860,Conta Corrente,,,,,2020-12-03,,closed,CO
+adb5c9fd-66f6-4d70-ba92-fdc9514503d5,457364ca-44bc-4f0e-88bf-799e72616a4b,CONTA_CORRENTE,7788,2893930,5,,2022-01-21,,open,Brasil
+5e162a2a-30ef-48cc-989e-4914bd4a8cb1,b53730a3-1b6d-48ae-a845-d3faf0f3a718,Conta Corrente,8729,8733874,6,,2022-01-25,,ABERTA,Brasil
+7a795701-6721-4be1-96f5-7102d399f164,b53730a3-1b6d-48ae-a845-d3faf0f3a718,credit_card,,,,,2023-08-18,,ativa,Brasil
+7f0360c3-9be9-4e2d-ae3c-41372cd69af4,9ff9583e-34f3-4681-bc94-0d389377b108,checking,,,,739972552525740678,2023-11-15,,open,MX
+b13e946d-dac7-4801-9acd-08083c93903d,592ef069-073d-4f62-8820-b0d0bfb8ab71,checking,,,,669883505217046219,2019-08-20,,ABERTA,MX
+c501202b-0b52-45c0-8071-c2cca1188878,d5e110a2-5ee9-479c-b489-991b59aa2b88,checking,8705,5890613,6,,2018-06-01,,ABERTA,Brasil
+fb1ab97f-2665-4695-b5b6-33e5d409549f,89d2589a-fd56-4d6e-89b1-826905cb7b7b,Conta Corrente,1023,7194532,8,,2024-02-20,,fechada,Brasil
+e44bbbcc-f507-472a-b061-9ccd4a79b4ef,e96d8af1-0fe9-4776-b20a-63416df25bd8,checking,6653,7401599,6,,2022-11-01,,ativa,Brasil
+bc635ab2-0898-4c18-9498-195879e63767,e96d8af1-0fe9-4776-b20a-63416df25bd8,CARTAO_CREDITO,,,,,2018-05-30,,cancelada,Brasil
+efc7a209-dd05-4e72-a5cd-d0eb7ad44120,a229fc58-099d-46cd-86fe-9f242aa8ae32,Cartão de Crédito,,,,,2018-07-17,,cancelada,colombia
+78f6389e-b88b-4db8-b7d1-b29c3c6e68fe,60c032e5-f46e-4e61-8dc6-07eafd3169e2,checking,,,,509641346551032311,2023-07-06,,aberta,mexico
+7a6b9236-4a20-43c6-8a95-2a73c189446f,60c032e5-f46e-4e61-8dc6-07eafd3169e2,Cartão de Crédito,,,,,2019-08-28,,ativa,mexico
+b184a0df-ff23-4240-b642-cc7affcc0f21,b88fe993-7dff-4154-bf7a-df8b76e6dde2,CARTAO_CREDITO,,,,,2021-02-18,,active,Brasil
+cd760863-f9cc-453e-93c1-b05910465891,c1ff868f-eb7c-4cef-9a70-5996c0788dee,CONTA_CORRENTE,,,,,2019-04-17,,closed,colombia
+015d9ca4-1d59-4b82-9cce-89a14c8e6a4c,0eb73905-db57-4358-8f22-a335ec123459,CONTA_CORRENTE,5629,9976368,0,,2024-06-17,,ativa,Brasil
+b24c7bb5-e06d-4df0-b7a3-266bd412358a,41fd4120-2d41-461f-8abe-b3de2a4eea27,Conta Corrente,,,,400270499048394231,2021-08-28,,ABERTA,mexico
+8038ad3d-a8a4-47ba-ad22-0efbb6b7968d,41fd4120-2d41-461f-8abe-b3de2a4eea27,CARTAO_CREDITO,,,,,2024-05-12,,ativa,mexico
+54a2a73d-f4c1-467d-8016-177cb20992f3,f233e211-0987-4c11-bfe8-7d4339c7f856,Conta Corrente,4510,5311001,0,,2021-07-13,,fechada,Brasil
+2cdf2938-cc35-4233-b871-b5eacbb3d7e4,f233e211-0987-4c11-bfe8-7d4339c7f856,CARTAO_CREDITO,,,,,2019-08-26,,ATIVA,Brasil
+8a448b2b-c170-4d12-955c-4b22c930a797,b4b43137-1ff5-4891-a9be-a5d6f9f519bb,checking,,,,861697525956222857,2020-02-22,,ABERTA,Mexico
+06eb811b-caea-406c-9a28-86139fe1e4a6,b4b43137-1ff5-4891-a9be-a5d6f9f519bb,CARTAO_CREDITO,,,,,2020-11-14,2023-06-22,active,Mexico
+96e85a98-0ca8-4e85-b3fc-d03ace796b40,e5cc46bd-68d9-4182-bb88-f93b6c6fe9f5,checking,7776,5406118,2,,2024-05-21,,open,Brasil
+a13cae29-2876-4d98-a9f1-518a53520613,e5cc46bd-68d9-4182-bb88-f93b6c6fe9f5,CARTAO_CREDITO,,,,,2020-07-17,,cancelada,Brasil
+7afe4b58-ae6c-45dd-986a-0444c898962b,77fb90c5-852c-4bad-b5d6-6178c50214ef,CONTA_CORRENTE,,,,,2021-06-21,,ativa,Colombia
+d4b4a6a0-a8f2-43a9-80f4-f695eb0dc325,648054f0-7dbe-4479-a92b-630936335ce7,conta_corrente,5133,1177469,0,,2020-08-07,,fechada,Brasil
+5d800739-0afa-4dbd-8602-a45f5a095e91,648054f0-7dbe-4479-a92b-630936335ce7,CARTAO_CREDITO,,,,,2020-03-06,,cancelada,Brasil
+a2ae8a53-934d-40be-87b2-c398367736b9,b0a27b46-d43e-4637-a89a-c11ec4ec16d4,CONTA_CORRENTE,,,,,2020-11-05,,ativa,Colombia
+9dc80acf-bcd6-4276-b9ff-226b8c3f35cf,b0a27b46-d43e-4637-a89a-c11ec4ec16d4,CARTAO_CREDITO,,,,,2024-04-07,,cancelada,Colombia
+80d84ca0-11e7-45f4-aab5-b5e8946bb88a,2e32dd41-1904-4199-b42e-30f9d09af574,Conta Corrente,6996,6425820,4,,2019-04-07,,aberta,Brasil
+c3d277d6-cf9b-4cb1-9338-8336112ea777,dbb1a9ac-4cd5-4a1c-ad94-362adc359223,conta_corrente,,,,552676696487542429,2023-05-10,,ABERTA,Mexico
+16f79c26-c368-49ed-b1c2-81b364adf8fa,dbb1a9ac-4cd5-4a1c-ad94-362adc359223,CARTAO_CREDITO,,,,,2021-11-02,,ativa,Mexico
+27d946b3-6df6-4c25-bedf-e447b180c278,14add428-9619-43b9-a3f1-716c7e148273,checking,0308,9350043,2,,2019-03-16,,fechada,Brasil
+e1d671d5-e062-4239-b9fc-1130fbe8859b,6fb863b1-8fff-4a8b-8473-b98fe5f3d7cf,Cartão de Crédito,,,,,2022-10-13,,ativa,Colombia
+5995905f-70f2-492b-a1fb-d5e5105546b0,7cd14a1a-c921-413e-ab11-dc1dca08cccd,checking,1986,9980912,5,,2018-06-14,,aberta,Brasil
+ee5b09e8-f7ac-4a22-abe3-32df8b94277d,7cd14a1a-c921-413e-ab11-dc1dca08cccd,cartao_credito,,,,,2022-02-26,,ATIVA,Brasil
+0df7f9a6-abb0-47f6-860c-aaf3541d4639,1c5a00c3-633b-494b-97e7-739c9053b041,Conta Corrente,,,,,2022-10-15,,ativa,Colombia
+ceceb987-384d-4f93-b141-10b6e2fa42cf,57d4c9c6-501b-40d4-b09e-d500615674a5,conta_corrente,8016,7522436,1,,2020-07-30,,ativa,Brasil
+dc85a5fd-621f-422c-aaca-45074e7e849f,57d4c9c6-501b-40d4-b09e-d500615674a5,CARTAO_CREDITO,,,,,2020-10-15,,cancelada,Brasil
+2450849a-1021-4184-aac2-aa8bf1c348a3,220b672b-69c5-4eb7-adff-c9c731e265de,conta_corrente,8011,1319824,7,,2021-01-10,,ABERTA,Brasil
+7bc9ef57-2bd7-4323-84a9-d836ecc4fa4d,220b672b-69c5-4eb7-adff-c9c731e265de,CARTAO_CREDITO,,,,,2017-07-24,,ativa,Brasil
+697630ee-0247-44ad-b6c6-da155b4183cb,524b4a81-a1e3-4906-b843-8b39aad73d4c,conta_corrente,1034,4399754,6,,2019-08-10,,closed,Brasil
+c500e48b-04b8-420b-a304-473b20836693,524b4a81-a1e3-4906-b843-8b39aad73d4c,credit_card,,,,,2019-05-24,2022-06-18,cancelada,Brasil
+6bc87ebc-6d4b-42ee-a535-59158e8cf866,e352042c-c4f8-42c6-a228-e07bcf8e134d,conta_corrente,9536,1682814,2,,2022-07-25,,fechada,Brasil
+558580c8-7602-4e02-9807-078dce6d79e0,29f3292d-a867-457d-9234-c6942e4f6194,Conta Corrente,,,,,2018-06-30,,ativa,Colombia
+df2c5714-8029-4568-af08-81df7e59b04c,29f3292d-a867-457d-9234-c6942e4f6194,Cartão de Crédito,,,,,2019-04-25,,ativa,Colombia
+d10be8f7-56e1-436c-a630-5bdb9d32a7df,2cb35315-24db-4b08-9c06-76a79da7c525,Conta Corrente,5700,8026061,0,,2024-01-08,,fechada,Brasil
+b04ea0a3-102b-4420-8260-fa364a52ad6e,2cb35315-24db-4b08-9c06-76a79da7c525,cartao_credito,,,,,2023-01-20,,ATIVA,Brasil
+bd6ff353-b685-4fc0-ac5e-e9afdf67a1d8,635229dd-18bc-40f5-aba6-2556184790f3,CONTA_CORRENTE,0886,7110145,4,,2023-09-26,,fechada,Brasil
+f05c383c-856e-49df-8e11-6f1f8bed5fa5,238ca865-f81c-45e2-8835-b58255c6943f,CONTA_CORRENTE,7948,9638650,1,,2019-01-01,,ativa,Brasil
+a5e356ae-7599-4e20-85cb-e22cf4e5b519,8c5ee193-16d9-43cd-a845-55b1cba83658,CONTA_CORRENTE,3885,7922203,3,,2020-12-29,,ativa,Brasil
+89a8030c-8e32-4135-a4fc-3a2054a6f01e,8c5ee193-16d9-43cd-a845-55b1cba83658,credit_card,,,,,2023-11-02,,active,Brasil
+beac1220-8a9f-4c21-a6f2-d93f98af8314,1dfb761b-6ce3-4580-aef3-0f7eaa032f69,CARTAO_CREDITO,,,,,2018-06-06,,cancelada,Brasil
+d67e0723-df80-4b70-9c71-2ef378fdaa4a,c2d61583-f1df-4374-a9a4-2ebcb52f6f9d,Conta Corrente,,,,280764395713323863,2020-05-02,,fechada,MX
+d4ff515d-7729-4005-b5ec-d73fc84024cd,b4cbae94-160b-4c06-9ac7-006a4af1c274,checking,3547,8943827,7,,2020-12-27,,closed,Brasil
+dc90f071-cd7f-4cc6-8915-49886208a3fa,b4cbae94-160b-4c06-9ac7-006a4af1c274,cartao_credito,,,,,2021-11-14,,cancelada,Brasil
+794058c0-1ba8-4db3-92bc-e361ac108ac7,95795b37-f361-4ac1-966d-406c5039b7d8,CARTAO_CREDITO,,,,,2022-04-12,,ativa,Brasil
+d6dd31ab-9366-4d6f-be35-75363a1d19d1,99c05977-115c-44e8-8d2f-0ba3a5c81722,CONTA_CORRENTE,6663,4657541,2,,2021-02-10,,aberta,Brasil
+eeec6f91-a821-4d73-88a2-8eb037da4337,1891e395-8239-4b86-be52-e1ef204fc75c,conta_corrente,6642,4102874,5,,2018-09-08,,aberta,Brasil
+48c2ff63-6d59-4993-bebf-99dbce1e5367,1891e395-8239-4b86-be52-e1ef204fc75c,Cartão de Crédito,,,,,2020-09-25,,ATIVA,Brasil
+d6dca882-103e-413a-a5ad-d736b7faf09c,f21f19ef-b0ac-4255-8c8f-37b4c280af3f,CONTA_CORRENTE,8434,7106747,0,,2019-04-28,,fechada,Brasil
+5588f2f8-1fcf-4a04-bdb2-ba7ebd7018d5,f21f19ef-b0ac-4255-8c8f-37b4c280af3f,CARTAO_CREDITO,,,,,2019-04-19,,ATIVA,Brasil
+1f622c7b-9a70-4c56-9d49-91aefa506f71,fbd77887-c6a0-43e6-a845-f447606b116c,Conta Corrente,,,,,2020-12-10,,aberta,colombia
+40017344-2b02-48eb-b6a8-2bbde6acf679,fbd77887-c6a0-43e6-a845-f447606b116c,CARTAO_CREDITO,,,,,2020-11-15,,active,colombia
+4c3cff3d-e402-456f-9651-3afce51ef6e6,2776f576-b69d-4cd6-b3aa-3be92db087ee,CONTA_CORRENTE,,,,,2022-07-17,,aberta,Colombia
+4a9b5536-4f62-4bb7-b929-d2a18da3b84d,2776f576-b69d-4cd6-b3aa-3be92db087ee,cartao_credito,,,,,2019-01-03,,cancelada,Colombia
+16c8979c-d7d9-4b96-bfd7-ff4c6a6da498,b27e5c25-28e5-43c9-9534-15b9ebebf8e0,Conta Corrente,6825,3215051,7,,2020-09-14,,closed,Brasil
+751c8901-c02a-4c51-aa8c-f87d0f007c29,b27e5c25-28e5-43c9-9534-15b9ebebf8e0,Cartão de Crédito,,,,,2019-08-10,,active,Brasil
+aef315a1-974b-4366-8a13-6aaed86ed647,40845ddb-0d57-4694-b569-2ec6add7cac9,Conta Corrente,9294,3213824,4,,2024-05-11,,ativa,Brasil
+39159244-44f4-43bc-88aa-8d19031d2aec,40845ddb-0d57-4694-b569-2ec6add7cac9,cartao_credito,,,,,2022-02-11,,ATIVA,Brasil
+f0cc2607-9e51-4430-b516-31954f12326c,292ade28-9beb-40b3-bae1-e65a9ce8ce4b,CONTA_CORRENTE,5188,3121873,7,,2020-02-19,,fechada,Brasil
+f78410b9-7ab5-4093-b27f-724aa23c0e41,292ade28-9beb-40b3-bae1-e65a9ce8ce4b,CARTAO_CREDITO,,,,,2023-01-21,,cancelada,Brasil
+c6882520-4874-4d42-a86b-e0a58e373fd2,3fc82785-bdd3-45cf-b65c-7686998897f6,Conta Corrente,4843,8950901,4,,2023-07-21,,fechada,Brasil
+2f6781b5-8aaa-4914-b7ab-fe7052be25f8,71724c99-ac82-48b5-b3df-45a681c80acc,Cartão de Crédito,,,,,2023-03-07,,active,Brasil
+a5ad01ce-2437-4285-b52c-e75136b6b09e,8bb3cbf6-d691-4481-b514-6da29c3ba6a8,conta_corrente,4554,4283564,0,,2019-01-12,,closed,Brasil
+90437f67-f926-4d8f-be24-fa048bd6e599,8bb3cbf6-d691-4481-b514-6da29c3ba6a8,CARTAO_CREDITO,,,,,2020-07-25,,ATIVA,Brasil
+286b4d32-8a1c-405d-bcd2-9fddb57bb730,3f5ed695-c445-4402-a684-943476b25501,CONTA_CORRENTE,4664,6786800,5,,2023-03-18,,fechada,Brasil
+6386bc2e-c93b-4111-b261-c15cf2996656,3f5ed695-c445-4402-a684-943476b25501,cartao_credito,,,,,2021-10-03,,ATIVA,Brasil
+474525db-eb83-4a42-949b-9b011d8d81f4,6aac2ffe-0a6c-4f1c-ac99-04daf8f0bda7,checking,,,,107631031983442938,2023-09-27,,ativa,Mexico
+0971c205-e2e7-466f-a56e-db71c0aaedad,6aac2ffe-0a6c-4f1c-ac99-04daf8f0bda7,cartao_credito,,,,,2022-03-08,,active,Mexico
+d817eb89-0b41-4b1e-bd39-f94a126e6718,aa665426-d8a2-44be-abbe-a643fb739816,Conta Corrente,8096,8775431,3,,2018-11-20,2018-11-30,open,Brasil
+97a9ce4e-cd70-4f8c-9bf5-eb7b61ca416a,49e4d8a6-4656-4fef-aa75-2407ef41596e,conta_corrente,0467,3002438,4,,2021-08-22,,fechada,Brasil
+871447ba-fa0e-4b60-b8ff-31b19bb34de4,49e4d8a6-4656-4fef-aa75-2407ef41596e,credit_card,,,,,2022-05-04,,active,Brasil
+b031b9f3-061f-4bb2-8009-c7522eb10165,9c4ec5ea-1d95-496e-8e9a-0405249c9544,conta_corrente,,,,288282292525702445,2019-01-26,,closed,mexico
+b27d225d-59b8-4869-be0d-f225fc255876,b43411d7-55fb-4af3-8cf0-bbcb93aef7c1,CONTA_CORRENTE,8420,4251673,2,,2021-08-31,,ABERTA,Brasil
+f09c14ad-2436-42f0-9cf0-c4f8c42df99c,b43411d7-55fb-4af3-8cf0-bbcb93aef7c1,credit_card,,,,,2021-01-24,,cancelada,Brasil
+6aa0dd05-3db4-4121-b18e-926c68ea1aa8,8b251019-8165-4fa4-9ef4-23abac275d53,conta_corrente,1679,4655356,2,,2022-08-06,,fechada,Brasil
+9bb2e368-5227-466f-b5b9-e509cccc7d0b,ee0b6a93-0f94-4d99-a4a5-f5323352545a,Conta Corrente,,,,518013098120098554,2019-11-20,,fechada,MX
+8a235d28-5b2b-41de-8577-26294b1436a3,ee0b6a93-0f94-4d99-a4a5-f5323352545a,CARTAO_CREDITO,,,,,2020-11-02,,ATIVA,MX
+9f04dd4f-a58f-47fc-bd02-92f4c3bc468e,620c456a-1030-4daa-9c6f-7676b09dc0d0,conta_corrente,3439,3184699,1,,2020-01-05,,aberta,Brasil
+fb371d83-2a38-42f6-8429-253948af94ad,620c456a-1030-4daa-9c6f-7676b09dc0d0,CARTAO_CREDITO,,,,,2017-05-15,,ativa,Brasil
+ffaa9295-277e-4f4b-8e95-0d223cf79165,1c8daafd-c1f9-439b-aec4-c14c145935c3,conta_corrente,9628,4355853,2,,2018-07-13,,fechada,Brasil
+0a0920aa-b9d4-4a3e-bd4d-36243ff24300,1c8daafd-c1f9-439b-aec4-c14c145935c3,CARTAO_CREDITO,,,,,2022-08-13,,ativa,Brasil
+3a521ad2-ec5e-4858-8351-214b73b553ae,dc71503f-79a9-4052-a097-df62bcf49c9e,CONTA_CORRENTE,1617,4590582,8,,2020-07-24,,closed,Brasil
+e69240d1-e390-43ce-8c07-1d576ea99b35,3db642c6-d156-4714-ae61-7798d03d7758,credit_card,,,,,2022-10-08,,ATIVA,Brasil
+9cd75319-b0ad-4273-98f6-45e74c9b156a,ab1aecb2-bece-4149-a16f-761982250a8e,CONTA_CORRENTE,,,,478291309511586696,2022-06-19,,ativa,MX
+67eed6d8-336f-49a7-b5d5-cc0183fe432d,ab1aecb2-bece-4149-a16f-761982250a8e,cartao_credito,,,,,2020-07-01,,cancelada,MX
+b5e4bd56-b845-490b-ba3f-605e49966111,a0cc33a6-12a2-4267-9dbe-5f5a079124b5,conta_corrente,,,,666831983982128561,2019-03-13,,fechada,MX
+0de7029c-4bd8-4fac-901e-4ae1000261c6,a0cc33a6-12a2-4267-9dbe-5f5a079124b5,Cartão de Crédito,,,,,2017-12-15,,ATIVA,MX
+ae6b2333-89df-4c9f-a2e2-97b788226fa7,65baa4b5-252d-4361-9d59-f5ad95e143a0,checking,,,,,2020-08-24,,closed,Colombia
+279006cd-5f31-4314-bff9-3ed858bc3953,65baa4b5-252d-4361-9d59-f5ad95e143a0,Cartão de Crédito,,,,,2023-07-12,,cancelada,Colombia
+a53a8cfc-2d96-4173-a29f-899c768fd2e4,1f153b58-00f4-4ab8-be0b-c1fb13443076,credit_card,,,,,2018-08-27,,ATIVA,MX
+06b8380f-f618-4ab0-880d-2e879ea46aca,d22e036c-13c7-4f95-8ee6-d3dd49213dc1,CONTA_CORRENTE,2935,7419516,9,,2019-01-03,,fechada,Brasil
+1336898c-c278-476b-83f8-84427360197d,4cb702dd-88d2-4a61-93a2-ec06d8103872,Conta Corrente,8857,1296459,0,,2023-12-31,,aberta,Brasil
+945d2122-258f-4c19-a313-2c32826bc3ee,4cb702dd-88d2-4a61-93a2-ec06d8103872,credit_card,,,,,2017-05-15,,cancelada,Brasil
+43732612-767a-40a5-9f27-ca8502a61f4e,d0674f6d-d6e5-4b80-91be-8bfa808bc8d8,checking,,,,738469366949275908,2022-10-11,,ativa,MX
+73e77531-0b10-4bcb-ac70-9a0b69df6d0c,d0674f6d-d6e5-4b80-91be-8bfa808bc8d8,credit_card,,,,,2018-10-03,,active,MX
+b7fd94bd-f080-4084-86be-d5cb746a6fa6,9de8d5ec-a618-4dfc-bc8d-9f847542e326,CONTA_CORRENTE,2101,7147341,5,,2021-08-09,,closed,Brasil
+3de69be3-110a-420b-ada7-eea0edab2d59,9de8d5ec-a618-4dfc-bc8d-9f847542e326,cartao_credito,,,,,2021-01-03,,ativa,Brasil
+4124079f-bc3f-435d-a7ae-de54a9e15e7a,0db5e0bf-36af-43eb-81d4-eb0efe2763ff,CARTAO_CREDITO,,,,,2020-06-02,,cancelada,mexico
+b0ba8528-bcea-4cd7-9b86-d53f1635e271,718099fd-24ff-4cdd-a60e-4f50d2bdde3c,checking,4369,1342293,7,,2023-02-25,,ativa,Brasil
+7e1eb6f9-c4a4-4899-86ac-16105753db2a,718099fd-24ff-4cdd-a60e-4f50d2bdde3c,credit_card,,,,,2019-04-24,,cancelada,Brasil
+6db1815f-46b2-4aea-933f-9ff21056baa2,a407fc3a-e23e-4207-8c37-c23ca763201b,Conta Corrente,0779,5988206,9,,2019-04-05,,closed,Brasil
+8347abed-7b2d-4290-8e89-97586c28c62e,7ade4ae8-d577-41af-b992-a8e800acf1ee,checking,6998,4518839,5,,2022-03-11,,open,Brasil
+ee2112fe-82bb-4f7e-b3ff-32e21b09ff6a,7ade4ae8-d577-41af-b992-a8e800acf1ee,Cartão de Crédito,,,,,2021-07-06,,ativa,Brasil
+8da07cc1-39b6-408e-ba99-768914d7e83d,bb0eba97-3897-4405-bb7e-8128dfd9babe,conta_corrente,7657,5495219,8,,2024-03-15,,ativa,Brasil

@@ -1,0 +1,12 @@
+transaction_type_id,type_name,category,rail,is_instant,typical_settlement_time
+1,pix,transfer,SPI,true,instant
+2,ted,transfer,SPB,false,same_day
+3,doc,transfer,SPB,false,D+1
+4,boleto,payment,SPB,false,D+1
+5,spei,transfer,SPEI,true,instant
+6,compra_credito,payment,internal,false,D+30
+7,compra_debito,payment,internal,true,instant
+8,saque,withdrawal,internal,true,instant
+9,deposito,deposit,internal,false,same_day
+10,tarifa,fee,internal,true,instant
+11,estorno,refund,internal,false,D+2

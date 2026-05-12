@@ -1,0 +1,5 @@
+currency_code,currency_name,symbol,decimal_places
+BRL,Brazilian Real,R$,2
+MXN,Mexican Peso,$,2
+COP,Colombian Peso,$,0
+USD,US Dollar,$,2

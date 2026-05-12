@@ -1,0 +1,159 @@
+id,nome,sobrenome,documento_tipo,documento_numero,email,telefone,endereco,cidade,estado,pais,moeda_preferida,data_cadastro,status
+dde6deab-0d47-42f6-8b9b-fdaf1362c864,JOÃO,NASCIMENTO,CPF,854.204.792-79,joão.nascimento65@hotmail.com,+526339587039,"Curitiba, PR",Curitiba,PR,Brasil,BRL,2022-09-25 01:01:05,active
+0b16c0ac-38b4-4a1d-a502-74ceac188141,Carlos,Rodrigues,CPF,489.199.467-54,carlos.rodrigues11@yahoo.com.br,+521816150444,"Av. Paulista, nº 2473, Salvador/BA",Salvador,BA,Brasil,BRL,2018-06-27 23:29:34,Ativo
+632d0e85-738a-4e7d-9b80-eb1162901fae,GABRIEL,FERNANDES,cpf,314.786.373-99,gabriel.fernandes49@yahoo.com.br,+5545985899313,"Belo Horizonte, MG",Belo Horizonte,MG,Brasil,BRL,02/12/2019 17:46,bloqueado
+9c7a8bd3-d39d-400a-a7c6-dcb5abff66de,Bruno Araújo,,cpf,758.569.246-43,bruno.araújo52@uol.com.br,(28) 98348-9085,Rua Voluntários da Pátria 572 Curitiba PR,Curitiba,PR,Brasil,BRL,2024-04-18T17:16:47Z,bloqueado
+7f5df058-f102-4d56-9f53-b3b5dc151a65,LETÍCIA,MARTINS,Cpf,981.111.796-24,letícia.martins1@yahoo.com.br,,"Rua Augusta, nº 2200, Fortaleza/CE",Fortaleza,CE,Brasil,BRL,2021-10-25 03:18:27,active
+1810cdd3-afb6-49a5-80d1-1b295f66377b,Gustavo,Barbosa,cpf,600.119.214-56,gustavo.barbosa94@gmail.com,+529473791320,Rua da Consolação 1260 São Paulo SP,São Paulo,SP,Brasil,BRL,2018-08-26T07:56:36Z,bloqueado
+8eb994d5-0215-4b82-a862-31d107db4880,DANIELA,LÓPEZ,CEDULA,68800797,daniela.lópez29@uol.com.br,,Av. El Dorado 496 Barranquilla ATL,Barranquilla,ATL,colombia,cop,2020-07-09 02:21:01,inativo
+05bb989a-e278-43a5-8f6a-8fcfa3f9d738,Carlos Correia,,CPF,903.584.926-62,carlos.correia60@yahoo.com.br,(94) 91612-1993,"Rua Voluntários da Pátria, 780, Campinas - SP",Campinas,SP,Brasil,BRL,2019-02-02 21:27:22,suspended
+f277514b-906a-4510-a55d-1996d5ee24b3,David Rodríguez,,CEDULA,11980765,david.rodríguez22@gmail.com,82988834863,Carrera 15 969 Bogotá DC,Bogotá,DC,CO,COP,2022-07-23 15:30:13,Ativo
+aa5bdb42-386c-4ad2-be20-89821babb846,DAVID,GÓMEZ,CEDULA,16729990,david.gómez77@gmail.com,+5519990625494,"Cali, VAC",Cali,VAC,colombia,cop,2019-10-07T01:32:05Z,ATIVO
+44a320a4-729f-463e-8ba0-6b14786836af,Diego,Araújo,Cpf,833.421.344-43,diego.araújo59@gmail.com,+523777898694,Av. Brasil 1622 Porto Alegre RS,Porto Alegre,RS,Brasil,BRL,2021-05-13 14:20:59,Ativo
+f254f645-7774-4859-be97-b3f81cbf6ed2,Rodrigo,Rocha,Cpf,926.769.641-11,rodrigo.rocha71@live.com,+525337326368,"Rua Augusta, nº 2272, Manaus/AM",Manaus,AM,Brasil,BRL,2019-03-01T04:16:07Z,suspended
+1851ba66-3c89-42e5-9ea3-973aa7113413,Catalina González,,CEDULA,10475894,catalina.gonzález2@uol.com.br,(99) 92442-9938,"Calle 80, nº 536, Cali/VAC",Cali,VAC,Colombia,cop,24/10/2019 23:28,active
+7d203836-ee85-4d3c-b8cd-f9128713a769,  Juliana , Souza  ,cpf,735.867.258-40,juliana.souza86@yahoo.com.br,39926786211,Av. Presidente Vargas 666 Salvador BA,Salvador,BA,Brasil,BRL,16/08/2022 00:11,inativo
+ef349a63-d5f9-48d3-9692-c6cd49d927c6,  Andrés , Martínez  ,CEDULA,47393469,andrés.martínez15@gmail.com,+522390070438,"Av. El Dorado, nº 1144, Barranquilla/ATL",Barranquilla,ATL,Colombia,COP,18/09/2023 12:43,ATIVO
+59fd2eb3-b9b6-4371-a27d-7d10941d6e29,  Rafael , Santos  ,CPF,632.925.651-97,rafael.santos41@uol.com.br,+529564813568,"Av. Atlântica, nº 808, Manaus/AM",Manaus,AM,Brasil,BRL,2022-11-02T02:42:58Z,active
+d800fcc6-7a85-498a-bdf8-02458ed9db45,BRUNO,LIMA,CPF,411.393.315-65,bruno.lima61@uol.com.br,+5532988429450,"Brasília, DF",Brasília,DF,Brasil,BRL,2021-08-12 14:28:28,inativo
+92e5516b-e50b-4692-90bb-e3851395b233,Catalina,Díaz,CEDULA,36096655,catalina.díaz55@gmail.com,(77) 97611-1822,Carrera 15 2025,Barranquilla,ATL,colombia,cop,26/09/2020 04:41,INATIVO
+4b126fce-634d-40f2-932a-c7b88d167f1a,DAVID,GONZÁLEZ,CEDULA,73709724,david.gonzález57@outlook.com,(47) 93841-5451,Carrera 7 1062 Barranquilla ATL,Barranquilla,ATL,colombia,cop,2021-02-09 16:31:40,Ativo
+ccfcb1c2-95ad-4254-8abf-daf81f9d3892,Lucas Oliveira,,cpf,655.577.525-17,lucas.oliveira1@yahoo.com.br,(60) 96865-9818,Av. Atlântica 848,Brasília,DF,Brasil,BRL,15/05/2022 18:44,bloqueado
+dbca6eff-e4f6-4f49-bd18-97252d3a9801,Isabela Carvalho,,cpf,230.737.646-13,isabela.carvalho60@hotmail.com,52945298556,"Manaus, AM",Manaus,AM,Brasil,BRL,30/04/2024 21:01,bloqueado
+e911618e-ac06-454c-83e1-3e23e3bd41fe,JOÃO,ROCHA,CPF,765.170.899-93,joão.rocha17@hotmail.com,,"Rua Oscar Freire, 165, São Paulo - SP",São Paulo,SP,Brasil,BRL,2020-10-09T06:53:01Z,ATIVO
+d0ab0d7b-80f6-476c-bd29-fcf6b3895271,  Beatriz , Souza  ,cpf,689.793.484-60,beatriz.souza77@live.com,,"Rua das Flores, 813, Campinas - SP",Campinas,SP,Brasil,BRL,2020-09-21T03:44:49Z,INATIVO
+1a0d5112-7f06-4160-8b90-9fcdc08ad9d0,  Rodrigo , Martins  ,cpf,280.851.634-93,rodrigo.martins32@outlook.com,+528291917334,"Manaus, AM",Manaus,AM,Brasil,BRL,2024-01-14 15:29:27,suspended
+744a6938-6f30-4afa-a075-9e68e2822eac,Lucas Fernandes,,cpf,710.818.382-81,lucas.fernandes72@yahoo.com.br,48929742165,"Porto Alegre, RS",Porto Alegre,RS,Brasil,BRL,2020-02-22T02:15:46Z,Ativo
+2846366b-3440-4482-a3fe-85c06d1f0ce3,AMANDA,ROCHA,cpf,863.663.438-55,amanda.rocha16@outlook.com,,"Rua Oscar Freire, nº 1859, Fortaleza/CE",Fortaleza,CE,Brasil,BRL,09/06/2021 08:14,ATIVO
+4720d1de-d121-412e-aca2-860a94aafdb0,Camila Costa,,Cpf,646.229.380-15,camila.costa2@gmail.com,17933887075,"Porto Alegre, RS",Porto Alegre,RS,Brasil,BRL,2021-04-11 22:08:40,ATIVO
+912375d5-eb60-4882-bf36-252c7f8472fd,André Santos,,Cpf,411.187.354-25,andré.santos76@outlook.com,+5565940987442,Rua XV de Novembro 2286,Belo Horizonte,MG,Brasil,BRL,2020-07-13 16:24:28,Ativo
+09c4b041-7de6-4ca3-b9c6-b62a6d88ba8e,  Sebastián , García  ,RFC,SSLR976694TX6,sebastián.garcía16@yahoo.com.br,+5570992432795,"Av. Insurgentes, 293, Guadalajara - JAL",Guadalajara,JAL,mexico,MXN,2019-11-11T09:38:47Z,ativo
+25cfb864-8485-4122-b1c2-2064eec33649,Santiago,Hernández,RFC,PATV5715429P3,santiago.hernández43@hotmail.com,+528014925405,"Blvd. Manuel Ávila Camacho, nº 1926, Guadalajara/JAL",Guadalajara,JAL,MX,MXN,31/07/2022 10:20,INATIVO
+b94723e5-2797-4a19-ba90-ea015a49cca8,  Larissa , Santos  ,cpf,737.874.610-90,larissa.santos90@yahoo.com.br,,"Av. Presidente Vargas, 1811, Curitiba - PR",Curitiba,PR,Brasil,BRL,13/04/2020 08:35,ATIVO
+f3790cdf-ebb3-4a33-87a9-7aa55c9ae2a5,VANESSA,LIMA,cpf,954.594.583-41,vanessa.lima36@gmail.com,86977835998,"Fortaleza, CE",Fortaleza,CE,Brasil,BRL,2019-08-16 12:12:58,suspended
+a5c393b2-0dee-4717-a953-013dd4910d56,Patricia Rocha,,cpf,990.293.814-40,patricia.rocha49@live.com,+521426944487,Rua Voluntários da Pátria 2343,Brasília,DF,Brasil,BRL,2020-08-14 13:02:20,suspended
+df9115a3-fd5e-437b-8318-e7856cfad62e,Catalina Díaz,,CEDULA,93652460,catalina.díaz5@uol.com.br,+5590909183277,"Av. El Dorado, nº 329, Cali/VAC",Cali,VAC,Colombia,cop,26/12/2023 12:20,active
+99ed4585-91dd-4669-ad26-0d32ea0776cb,VALENTINA,GÓMEZ,CEDULA,60310319,valentina.gómez23@hotmail.com,+528429208935,Av. El Dorado 597 Cali VAC,Cali,VAC,Colombia,cop,16/12/2023 13:36,inativo
+95c31876-6a24-4030-bca2-fc84e4e89f47,  Sebastián , Morales  ,CEDULA,69287967,sebastián.morales50@hotmail.com,48902944682,"Calle 80, nº 2407, Medellín/ANT",Medellín,ANT,CO,cop,04/10/2022 22:16,ativo
+de587836-ecf0-4e7c-afc7-d4ab84045fcf,Ximena Sánchez,,RFC,PJQQ676869XLP,ximena.sánchez26@hotmail.com,+524432084778,Calle Madero 1495 Monterrey NL,Monterrey,NL,Mexico,Pesos,2019-01-05T09:20:47Z,INATIVO
+86a67377-dd16-4f88-8e34-cfed94f75408,  Pedro , Pereira  ,Cpf,474.192.909-60,pedro.pereira49@uol.com.br,,"Av. Atlântica, nº 58, Curitiba/PR",Curitiba,PR,Brasil,BRL,2024-01-07 03:29:23,ATIVO
+952b4bd4-b931-4a2b-9656-4605cb9e4096,FELIPE,LIMA,CPF,243.146.138-48,felipe.lima59@yahoo.com.br,,"Av. Atlântica, 2018, Goiânia - GO",Goiânia,GO,Brasil,BRL,03/02/2019 07:56,inativo
+f7965721-7678-4c8e-8fe3-1b257b50c17a,Valentina,Morales,CEDULA,63437398,valentina.morales43@gmail.com,(83) 93362-2124,"Calle 80, 778, Cali - VAC",Cali,VAC,Colombia,cop,06/02/2023 02:42,active
+f2d0172d-1658-4e22-8003-d871c91e3769,RAFAEL,PEREIRA,cpf,917.278.212-94,rafael.pereira42@uol.com.br,25908530615,Av. Presidente Vargas 106 Belo Horizonte MG,Belo Horizonte,MG,Brasil,BRL,02/03/2018 11:50,INATIVO
+8a4b15ba-a076-4d0a-a9f7-7a7bb9a7831b,Diego Almeida,,Cpf,902.987.774-76,diego.almeida88@yahoo.com.br,(67) 91204-2323,Rua das Flores 1236,Campinas,SP,Brasil,BRL,08/05/2018 01:30,INATIVO
+0acb381e-fcca-4b32-b397-404197f93553,Beatriz Martins,,cpf,201.912.818-24,beatriz.martins59@outlook.com,(23) 95120-7992,Rua da Consolação 2259 Fortaleza CE,Fortaleza,CE,Brasil,BRL,2022-10-28T14:56:14Z,suspended
+e699502b-8c2b-4ecf-bd3d-3a8ed403bd70,  Emiliano , García  ,RFC,ORKW949023DSF,emiliano.garcía29@uol.com.br,+5565975291541,"Blvd. Manuel Ávila Camacho, 919, Querétaro - QRO",Querétaro,QRO,México,mxn,2021-12-05 17:23:07,inativo
+f2272217-cdf9-4d2f-87d2-e6c3b91ce7d4,Marcos Fernandes,,CPF,679.773.510-18,marcos.fernandes59@yahoo.com.br,(58) 95105-6314,"Rua XV de Novembro, 582, São Paulo - SP",São Paulo,SP,Brasil,BRL,2019-01-11 23:33:13,ativo
+e073a8f5-17b7-4c04-a2e3-582037893a80,Isabela Gomes,,cpf,524.379.320-75,isabela.gomes86@uol.com.br,(39) 96475-1897,"Rua da Consolação, nº 467, Recife/PE",Recife,PE,Brasil,BRL,27/10/2022 03:18,inativo
+fca35382-0c9f-4de5-bc03-b98e0612c3ec,Mariana,Gomes,cpf,645.820.335-74,mariana.gomes3@yahoo.com.br,+528364280720,"Rua XV de Novembro, nº 2289, Belo Horizonte/MG",Belo Horizonte,MG,Brasil,BRL,2018-10-23 12:55:47,bloqueado
+653893f6-baf1-40cc-a0a1-17e97954296f,VALENTINA,PÉREZ,RFC,LKCW727065G1M,valentina.pérez20@uol.com.br,,Calle Madero 605 Ciudad de México CDMX,Ciudad de México,CDMX,MX,Pesos,2019-02-26T04:16:12Z,INATIVO
+5244c273-f217-4b40-a1a6-7dc9b68757a1,Carlos Martins,,cpf,746.410.915-45,carlos.martins5@yahoo.com.br,75951604364,"Rua Voluntários da Pátria, 2423, Rio de Janeiro - RJ",Rio de Janeiro,RJ,Brasil,BRL,2021-12-12T16:04:19Z,ativo
+4726c719-5141-4536-a4bf-e84a28d561b8,Regina,Torres,RFC,DBCX375124PSF,regina.torres83@live.com,(53) 91548-7333,Blvd. Manuel Ávila Camacho 1159,Puebla,PUE,México,mxn,02/08/2022 10:43,ATIVO
+522d456d-2d7c-404a-aac2-155ae4c30f0b,Camila,Lima,CPF,709.825.186-49,camila.lima86@live.com,38945866538,Av. Atlântica 2290,Goiânia,GO,Brasil,BRL,2021-09-07 04:42:44,Ativo
+fdbe0957-10c9-4ccb-b047-3d9cf12339cd,BEATRIZ,SOUZA,Cpf,639.138.777-53,beatriz.souza57@live.com,,"Fortaleza, CE",Fortaleza,CE,Brasil,BRL,2022-03-24 04:10:11,inativo
+98fb96ac-b250-49b9-880f-a5b759a346df,REGINA,TORRES,RFC,UUNK116804N7Z,regina.torres12@yahoo.com.br,(55) 90436-7797,"Calle Juárez, nº 511, Puebla/PUE",Puebla,PUE,México,Pesos,10/12/2018 05:17,ATIVO
+162e9bbc-41ea-4680-8375-bcfff15da23a,Vanessa,Souza,CPF,240.139.393-70,vanessa.souza33@gmail.com,+526424923247,Rua Oscar Freire 569,Manaus,AM,Brasil,BRL,2023-01-12 19:00:57,ativo
+0126a3ef-9bec-4dfa-82e3-e9dda2527599,Ximena Ramírez,,RFC,OSHA3516538T2,ximena.ramírez33@outlook.com,+529494323222,"Blvd. Manuel Ávila Camacho, 2270, Ciudad de México - CDMX",Ciudad de México,CDMX,mexico,Pesos,2022-05-19 15:02:40,ativo
+96f36e9f-cb7f-4b57-8755-f0658d6758d1,ANDRÉ,COSTA,Cpf,590.746.286-27,andré.costa41@gmail.com,+524214915156,Rua Voluntários da Pátria 259,Goiânia,GO,Brasil,BRL,01/06/2018 09:12,ativo
+b2acf8b2-562b-46ac-8275-3d5b0b8c9580,Ana,Fernandes,Cpf,550.495.447-33,ana.fernandes55@live.com,+524753112268,Av. Atlântica 2033,Brasília,DF,Brasil,BRL,2022-02-13T16:17:51Z,inativo
+d6f9916f-5272-49f9-9b6f-f5e353fa1d4c,Larissa Costa,,cpf,557.143.844-55,larissa.costa66@outlook.com,+521426942307,"Rua Voluntários da Pátria, nº 1782, Manaus/AM",Manaus,AM,Brasil,BRL,23/08/2018 02:42,bloqueado
+03d1c707-30ac-42af-a535-eddf0b5d7e88,CARLOS,MARTINS,cpf,881.178.687-27,carlos.martins4@gmail.com,,"Rua Oscar Freire, nº 2169, Salvador/BA",Salvador,BA,Brasil,BRL,19/06/2022 10:41,suspended
+8130fa77-eae3-47e8-8e5d-5bacef09b83a,Catalina,Hernández,CEDULA,83819367,catalina.hernández18@hotmail.com,+5541966306502,Calle 80 1229 Cali VAC,Cali,VAC,CO,cop,2019-12-15 11:32:14,inativo
+b6793120-d305-402f-8803-457220d258eb,  Emiliano , Pérez  ,RFC,BZQL6387618P6,emiliano.pérez29@live.com,(47) 91292-5105,"Puebla, PUE",Puebla,PUE,mexico,MXN,2019-09-19T09:10:10Z,inativo
+6e90b6fd-9e28-456f-8056-ed99bdb1e419,  André , Costa  ,CPF,275.774.739-87,andré.costa27@live.com,+529083226170,"Campinas, SP",Campinas,SP,Brasil,BRL,18/06/2018 00:05,Ativo
+4a8c4118-85cf-46cb-8a6f-acdc60391fb0,Camila,Hernández,RFC,LMFP377891NUL,camila.hernández50@outlook.com,35921386576,"Calle Madero, nº 502, Ciudad de México/CDMX",Ciudad de México,CDMX,MX,mxn,2023-01-16T07:09:06Z,suspended
+7ff8f3ad-6869-412a-b3a1-1fb69ac6f9d8,João Oliveira,,cpf,346.320.697-55,joão.oliveira69@outlook.com,57906072331,"Av. Presidente Vargas, 200, Brasília - DF",Brasília,DF,Brasil,BRL,2021-02-26 15:38:56,Ativo
+5d03d788-89b2-436b-ba07-b55b613fad10,  Thiago , Barbosa  ,cpf,945.738.796-88,thiago.barbosa47@uol.com.br,(88) 98341-7576,Av. Presidente Vargas 487 Recife PE,Recife,PE,Brasil,BRL,2019-02-01T12:23:50Z,INATIVO
+d203d03e-2824-420c-9660-f9225feba484,Carlos Dias,,cpf,727.426.266-60,carlos.dias73@live.com,+529624710878,"Fortaleza, CE",Fortaleza,CE,Brasil,BRL,2021-10-09T16:53:32Z,ativo
+bc23a51b-ed31-4ebd-990e-9fb6c201459a,ANDRÉ,CORREIA,Cpf,152.697.591-31,andré.correia74@gmail.com,(13) 97225-6139,"Campinas, SP",Campinas,SP,Brasil,BRL,07/04/2022 04:52,suspended
+e4054985-8f68-4689-b4a1-aa8b2716cf10,  Mateo , Ramírez  ,RFC,IRNI193377XYV,mateo.ramírez27@live.com,+5599994621922,"Blvd. Manuel Ávila Camacho, nº 1010, Guadalajara/JAL",Guadalajara,JAL,Mexico,MXN,2024-04-04T09:14:19Z,bloqueado
+897ee6a6-9cb7-4189-9b40-48a0f6626ec3,  Camila , Pereira  ,cpf,831.180.454-66,camila.pereira90@uol.com.br,(24) 99614-4920,Rua das Flores 1051,Porto Alegre,RS,Brasil,BRL,2020-05-26T06:52:34Z,Ativo
+204de78f-ce4c-4602-85e7-7690fdea78f3,Santiago Ramírez,,RFC,QWMQ722076I04,santiago.ramírez96@hotmail.com,,Calle Juárez 718,Guadalajara,JAL,México,MXN,2019-12-22T01:53:25Z,suspended
+f24ec397-e9d0-418d-aa36-2bcd9d31a382,  Diego , Martins  ,CPF,438.266.848-68,diego.martins87@uol.com.br,+5535923554528,Av. Brasil 1054 Porto Alegre RS,Porto Alegre,RS,Brasil,BRL,2018-02-27 23:21:50,active
+07860425-d1c8-4101-b039-8b0fd94e81ae,  Sebastián , González  ,CEDULA,45835371,sebastián.gonzález31@live.com,+523064414096,"Medellín, ANT",Medellín,ANT,Colombia,cop,2024-06-04T00:16:41Z,ATIVO
+413c184b-2c0a-4a6c-98bf-6bc63f8e6860,Isabella Martínez,,CEDULA,74180488,isabella.martínez86@uol.com.br,+527769961498,"Medellín, ANT",Medellín,ANT,CO,COP,2022-03-11 13:44:35,ATIVO
+457364ca-44bc-4f0e-88bf-799e72616a4b,Ana,Rodrigues,cpf,193.622.556-17,ana.rodrigues60@uol.com.br,+5597941361818,Rua da Consolação 1858 Manaus AM,Manaus,AM,Brasil,BRL,04/10/2023 13:29,INATIVO
+b53730a3-1b6d-48ae-a845-d3faf0f3a718,Maria Oliveira,,cpf,518.284.887-27,maria.oliveira11@yahoo.com.br,,"Rua das Flores, nº 1722, Recife/PE",Recife,PE,Brasil,BRL,2022-04-16 14:55:58,Ativo
+9ff9583e-34f3-4681-bc94-0d389377b108,Camila,Ramírez,RFC,JFLE18706676I,camila.ramírez95@hotmail.com,+523717575790,"Puebla, PUE",Puebla,PUE,MX,MXN,2018-05-18 14:38:43,INATIVO
+592ef069-073d-4f62-8820-b0d0bfb8ab71,Sofía González,,RFC,FHBY8964497Y2,sofía.gonzález29@hotmail.com,,Blvd. Manuel Ávila Camacho 1706,Guadalajara,JAL,MX,mxn,2019-09-04 09:24:11,bloqueado
+d5e110a2-5ee9-479c-b489-991b59aa2b88,CAMILA,OLIVEIRA,CPF,374.486.789-87,camila.oliveira27@yahoo.com.br,,"Av. Brasil, 2470, Fortaleza - CE",Fortaleza,CE,Brasil,BRL,2018-10-26T06:51:48Z,Ativo
+1c516623-411e-464a-b4f0-aed630734335,Marcos Lima,,Cpf,764.467.415-43,marcos.lima27@outlook.com,,"Brasília, DF",Brasília,DF,Brasil,BRL,2023-07-30T14:06:51Z,bloqueado
+fcbe6b79-2a35-435f-ba38-ec4f6fdcb21c,  Juliana , Carvalho  ,cpf,663.770.801-53,juliana.carvalho18@hotmail.com,+5580965540707,Av. Brasil 1055,Campinas,SP,Brasil,BRL,2023-07-03 14:10:46,bloqueado
+89d2589a-fd56-4d6e-89b1-826905cb7b7b,Diego,Martins,Cpf,753.782.731-71,diego.martins68@gmail.com,+5546971905550,"Rua das Flores, 1999, Salvador - BA",Salvador,BA,Brasil,BRL,2018-01-28T17:35:26Z,active
+e96d8af1-0fe9-4776-b20a-63416df25bd8,Thiago Oliveira,,cpf,678.349.813-38,thiago.oliveira61@uol.com.br,,"Av. Atlântica, 1229, Salvador - BA",Salvador,BA,Brasil,BRL,2018-05-10 02:25:24,ativo
+a229fc58-099d-46cd-86fe-9f242aa8ae32,Sebastián,Morales,CEDULA,52209421,sebastián.morales21@outlook.com,+5583932275631,"Bogotá, DC",Bogotá,DC,colombia,COP,2019-08-14T22:52:25Z,INATIVO
+60c032e5-f46e-4e61-8dc6-07eafd3169e2,Regina,García,RFC,MJYL660677CFZ,regina.garcía57@outlook.com,,Calle Juárez 632,Monterrey,NL,mexico,Pesos,2021-07-21T11:06:05Z,bloqueado
+b88fe993-7dff-4154-bf7a-df8b76e6dde2,MARCOS,CARVALHO,cpf,497.897.186-81,marcos.carvalho35@hotmail.com,+523168341261,"São Paulo, SP",São Paulo,SP,Brasil,BRL,05/11/2023 05:43,ATIVO
+c1ff868f-eb7c-4cef-9a70-5996c0788dee,Mariana Sánchez,,CEDULA,24357588,mariana.sánchez57@outlook.com,(94) 99738-3230,"Calle 72, 1248, Medellín - ANT",Medellín,ANT,colombia,COP,09/06/2022 10:53,INATIVO
+0eb73905-db57-4358-8f22-a335ec123459,Bruno,Almeida,cpf,936.904.502-56,bruno.almeida60@live.com,+529677015343,"Salvador, BA",Salvador,BA,Brasil,BRL,2020-03-29 18:34:11,inativo
+41fd4120-2d41-461f-8abe-b3de2a4eea27,Valentina Sánchez,,RFC,PNYW4097856DI,valentina.sánchez56@outlook.com,,Calle Juárez 1455 Querétaro QRO,Querétaro,QRO,mexico,Pesos,2018-07-01 18:41:43,suspended
+f233e211-0987-4c11-bfe8-7d4339c7f856,ISABELA,CORREIA,CPF,453.125.594-23,isabela.correia40@outlook.com,23958809636,Av. Presidente Vargas 1211,Manaus,AM,Brasil,BRL,18/12/2018 03:53,ATIVO
+b4b43137-1ff5-4891-a9be-a5d6f9f519bb,SANTIAGO,RODRÍGUEZ,RFC,YTNO344761XO0,santiago.rodríguez36@hotmail.com,+5519977490324,"Ciudad de México, CDMX",Ciudad de México,CDMX,Mexico,MXN,26/10/2022 12:00,suspended
+e5cc46bd-68d9-4182-bb88-f93b6c6fe9f5,Letícia,Carvalho,Cpf,216.456.460-68,letícia.carvalho40@hotmail.com,,"Av. Atlântica, nº 707, Campinas/SP",Campinas,SP,Brasil,BRL,14/12/2018 21:08,bloqueado
+77fb90c5-852c-4bad-b5d6-6178c50214ef,DAVID,GARCÍA,CEDULA,28830282,david.garcía50@hotmail.com,64995313695,Av. El Dorado 1289,Barranquilla,ATL,Colombia,COP,08/08/2018 11:00,active
+648054f0-7dbe-4479-a92b-630936335ce7,  Beatriz , Costa  ,Cpf,891.884.607-80,beatriz.costa97@uol.com.br,+526423746101,"Rua da Consolação, 2093, Recife - PE",Recife,PE,Brasil,BRL,2024-06-03 03:17:49,suspended
+b0a27b46-d43e-4637-a89a-c11ec4ec16d4,MARIANA,RODRÍGUEZ,CEDULA,88909809,mariana.rodríguez8@hotmail.com,,Carrera 7 2500,Medellín,ANT,Colombia,cop,11/11/2019 19:08,ATIVO
+2e32dd41-1904-4199-b42e-30f9d09af574,Natália Pereira,,Cpf,429.948.353-96,natália.pereira58@yahoo.com.br,+524559535894,Rua XV de Novembro 1609,Curitiba,PR,Brasil,BRL,2019-08-06T18:40:17Z,ativo
+dbb1a9ac-4cd5-4a1c-ad94-362adc359223,Camila,Rodríguez,RFC,KZVM32518761B,camila.rodríguez26@yahoo.com.br,+524522527880,"Blvd. Manuel Ávila Camacho, 1883, Ciudad de México - CDMX",Ciudad de México,CDMX,Mexico,Pesos,2019-05-24 05:28:29,INATIVO
+14add428-9619-43b9-a3f1-716c7e148273,MARIA,CARVALHO,Cpf,816.873.339-64,maria.carvalho29@uol.com.br,(67) 90152-1132,"Rua Augusta, 374, Goiânia - GO",Goiânia,GO,Brasil,BRL,05/01/2018 06:30,ATIVO
+6fb863b1-8fff-4a8b-8473-b98fe5f3d7cf,FELIPE,GARCÍA,CEDULA,81203615,felipe.garcía79@yahoo.com.br,86997980169,Calle 80 2500 Medellín ANT,Medellín,ANT,Colombia,COP,08/12/2022 11:46,bloqueado
+7cd14a1a-c921-413e-ab11-dc1dca08cccd,RAFAEL,OLIVEIRA,Cpf,714.838.722-46,rafael.oliveira51@live.com,,"Av. Presidente Vargas, nº 110, Curitiba/PR",Curitiba,PR,Brasil,BRL,2020-04-21 16:38:32,ativo
+1c5a00c3-633b-494b-97e7-739c9053b041,  Felipe , Sánchez  ,CEDULA,83330690,felipe.sánchez6@hotmail.com,,"Av. El Dorado, 1930, Barranquilla - ATL",Barranquilla,ATL,Colombia,COP,2018-03-10T18:04:00Z,active
+57d4c9c6-501b-40d4-b09e-d500615674a5,Diego,Rodrigues,cpf,500.700.749-93,diego.rodrigues12@hotmail.com,(69) 99975-1901,"Av. Presidente Vargas, nº 271, Belo Horizonte/MG",Belo Horizonte,MG,Brasil,BRL,2022-11-27 23:54:15,ativo
+c25799e4-c86a-4545-86ec-7f6eecc3ea4d,Camila Rodríguez,,RFC,USED728708JCZ,camila.rodríguez22@uol.com.br,+5558921113788,Blvd. Manuel Ávila Camacho 316,Querétaro,QRO,México,Pesos,2023-02-08 16:23:03,ativo
+220b672b-69c5-4eb7-adff-c9c731e265de,Carlos,Costa,Cpf,858.771.529-38,carlos.costa48@uol.com.br,+5526967382794,Av. Presidente Vargas 1319 São Paulo SP,São Paulo,SP,Brasil,BRL,01/09/2022 23:20,inativo
+524b4a81-a1e3-4906-b843-8b39aad73d4c,PEDRO,ROCHA,cpf,305.398.677-48,pedro.rocha70@live.com,+5542920208677,Rua das Flores 994,Recife,PE,Brasil,BRL,17/02/2022 18:31,ativo
+e352042c-c4f8-42c6-a228-e07bcf8e134d,Mariana Lima,,Cpf,343.529.603-17,mariana.lima48@live.com,,"Av. Brasil, nº 584, Rio de Janeiro/RJ",Rio de Janeiro,RJ,Brasil,BRL,2019-01-17T01:58:14Z,ativo
+29f3292d-a867-457d-9234-c6942e4f6194,Sebastián,López,CEDULA,53788744,sebastián.lópez14@hotmail.com,56927868462,"Calle 72, nº 1855, Cali/VAC",Cali,VAC,Colombia,cop,14/08/2020 02:12,suspended
+2cb35315-24db-4b08-9c06-76a79da7c525,Fernanda,Lima,CPF,320.955.977-51,fernanda.lima39@live.com,42912713811,"Rua da Consolação, 608, Manaus - AM",Manaus,AM,Brasil,BRL,2020-10-13 11:25:32,active
+635229dd-18bc-40f5-aba6-2556184790f3,  Isabela , Oliveira  ,cpf,932.176.122-18,isabela.oliveira6@gmail.com,14951369075,Rua da Consolação 810,Campinas,SP,Brasil,BRL,2019-06-12 02:57:54,INATIVO
+238ca865-f81c-45e2-8835-b58255c6943f,Letícia Dias,,Cpf,402.610.521-80,letícia.dias83@hotmail.com,72973083942,"Av. Brasil, 1963, Campinas - SP",Campinas,SP,Brasil,BRL,26/12/2018 08:24,INATIVO
+8c5ee193-16d9-43cd-a845-55b1cba83658,MARCOS,DIAS,cpf,159.928.583-77,marcos.dias69@outlook.com,+523233635791,"Curitiba, PR",Curitiba,PR,Brasil,BRL,2020-08-11T05:06:15Z,INATIVO
+1dfb761b-6ce3-4580-aef3-0f7eaa032f69,Felipe,Fernandes,CPF,676.292.956-73,felipe.fernandes78@hotmail.com,+525292427773,"Rua da Consolação, nº 2221, Campinas/SP",Campinas,SP,Brasil,BRL,2019-12-21T15:02:05Z,active
+c2d61583-f1df-4374-a9a4-2ebcb52f6f9d,  Santiago , García  ,RFC,SDCN307653L90,santiago.garcía86@hotmail.com,,"Blvd. Manuel Ávila Camacho, nº 1996, Guadalajara/JAL",Guadalajara,JAL,MX,mxn,15/12/2019 22:35,ativo
+b4cbae94-160b-4c06-9ac7-006a4af1c274,VANESSA,RIBEIRO,Cpf,179.343.455-50,vanessa.ribeiro89@hotmail.com,67998325826,"Rua Oscar Freire, 688, Belo Horizonte - MG",Belo Horizonte,MG,Brasil,BRL,2021-10-07 14:00:16,bloqueado
+95795b37-f361-4ac1-966d-406c5039b7d8,  Patricia , Carvalho  ,Cpf,766.876.803-38,patricia.carvalho14@outlook.com,,Rua Voluntários da Pátria 667,Rio de Janeiro,RJ,Brasil,BRL,2018-10-29T01:18:01Z,suspended
+99c05977-115c-44e8-8d2f-0ba3a5c81722,  André , Costa  ,CPF,154.203.439-36,andré.costa37@live.com,+5549931883191,Av. Atlântica 779,Campinas,SP,Brasil,BRL,19/03/2024 23:59,ativo
+1891e395-8239-4b86-be52-e1ef204fc75c,Isabela Dias,,CPF,126.311.274-91,isabela.dias63@yahoo.com.br,(22) 98914-7349,"Av. Brasil, 1196, Recife - PE",Recife,PE,Brasil,BRL,24/04/2023 03:19,ativo
+f21f19ef-b0ac-4255-8c8f-37b4c280af3f,JULIANA,NASCIMENTO,CPF,870.813.783-22,juliana.nascimento8@uol.com.br,+5560970139805,"Rua das Flores, nº 352, Campinas/SP",Campinas,SP,Brasil,BRL,27/01/2024 13:48,ativo
+fbd77887-c6a0-43e6-a845-f447606b116c,Isabella García,,CEDULA,33203422,isabella.garcía81@hotmail.com,,Calle 72 868 Bogotá DC,Bogotá,DC,colombia,COP,01/06/2019 01:27,inativo
+2776f576-b69d-4cd6-b3aa-3be92db087ee,Isabella,Sánchez,CEDULA,65625517,isabella.sánchez69@outlook.com,(44) 96275-8955,"Barranquilla, ATL",Barranquilla,ATL,Colombia,COP,15/02/2019 03:36,bloqueado
+b27e5c25-28e5-43c9-9534-15b9ebebf8e0,JULIANA,SANTOS,cpf,481.120.445-48,juliana.santos39@hotmail.com,38954649480,"Rua Voluntários da Pátria, nº 1274, Manaus/AM",Manaus,AM,Brasil,BRL,2023-07-07T22:43:06Z,INATIVO
+40845ddb-0d57-4694-b569-2ec6add7cac9,FERNANDA,OLIVEIRA,cpf,238.899.971-77,fernanda.oliveira32@gmail.com,70967796914,"Av. Presidente Vargas, 2330, Porto Alegre - RS",Porto Alegre,RS,Brasil,BRL,2019-12-13T06:56:53Z,ATIVO
+292ade28-9beb-40b3-bae1-e65a9ce8ce4b,Amanda,Dias,cpf,700.664.458-54,amanda.dias74@hotmail.com,+5538929709238,"Rua XV de Novembro, nº 670, Recife/PE",Recife,PE,Brasil,BRL,2019-01-06T09:01:24Z,ativo
+3fc82785-bdd3-45cf-b65c-7686998897f6,FERNANDA,DIAS,cpf,722.924.412-92,fernanda.dias39@yahoo.com.br,,Av. Brasil 1128,São Paulo,SP,Brasil,BRL,2022-03-23T11:29:16Z,inativo
+71724c99-ac82-48b5-b3df-45a681c80acc,Pedro,Araújo,cpf,367.771.828-93,pedro.araújo52@uol.com.br,48934819604,Rua Oscar Freire 1224 Porto Alegre RS,Porto Alegre,RS,Brasil,BRL,07/09/2019 16:48,bloqueado
+8bb3cbf6-d691-4481-b514-6da29c3ba6a8,BRUNO,RODRIGUES,Cpf,647.753.903-70,bruno.rodrigues13@outlook.com,(44) 99159-3999,"Salvador, BA",Salvador,BA,Brasil,BRL,14/05/2021 05:53,Ativo
+3f5ed695-c445-4402-a684-943476b25501,Daniela,Araújo,Cpf,401.574.971-25,daniela.araújo49@live.com,,"Rua Augusta, 1928, Salvador - BA",Salvador,BA,Brasil,BRL,19/10/2018 15:56,active
+6aac2ffe-0a6c-4f1c-ac99-04daf8f0bda7,Camila,Rodríguez,RFC,QAHT174706WO8,camila.rodríguez97@outlook.com,+5578925578773,"Av. Insurgentes, 20, Guadalajara - JAL",Guadalajara,JAL,Mexico,mxn,27/12/2023 06:46,inativo
+aa665426-d8a2-44be-abbe-a643fb739816,DIEGO,ARAÚJO,cpf,601.467.868-34,diego.araújo94@hotmail.com,+525697314051,Rua XV de Novembro 676,Brasília,DF,Brasil,BRL,2018-03-20T07:14:46Z,ativo
+49e4d8a6-4656-4fef-aa75-2407ef41596e,Ana,Silva,cpf,554.489.226-80,ana.silva54@outlook.com,+5595913553285,Av. Paulista 1036,São Paulo,SP,Brasil,BRL,2019-09-20T06:44:43Z,ATIVO
+9c4ec5ea-1d95-496e-8e9a-0405249c9544,Sofía,Torres,RFC,VZJK159642ADD,sofía.torres83@outlook.com,+521623396125,Av. Insurgentes 2024 Guadalajara JAL,Guadalajara,JAL,mexico,Pesos,04/01/2019 16:04,INATIVO
+b43411d7-55fb-4af3-8cf0-bbcb93aef7c1,  Natália , Santos  ,Cpf,762.274.436-55,natália.santos15@hotmail.com,(69) 94453-7319,"São Paulo, SP",São Paulo,SP,Brasil,BRL,2021-01-03 23:05:23,active
+8b251019-8165-4fa4-9ef4-23abac275d53,NATÁLIA,COSTA,Cpf,594.921.682-96,natália.costa63@yahoo.com.br,,Av. Atlântica 1795 Rio de Janeiro RJ,Rio de Janeiro,RJ,Brasil,BRL,2022-04-05T11:39:01Z,Ativo
+ee0b6a93-0f94-4d99-a4a5-f5323352545a,  Emiliano , Ramírez  ,RFC,LSMR6188607SQ,emiliano.ramírez65@gmail.com,,"Av. Reforma, 678, Querétaro - QRO",Querétaro,QRO,MX,mxn,07/07/2023 10:15,ATIVO
+620c456a-1030-4daa-9c6f-7676b09dc0d0,  Ana , Ribeiro  ,CPF,513.522.136-81,ana.ribeiro72@uol.com.br,+525617284695,"Rua das Flores, 2250, Manaus - AM",Manaus,AM,Brasil,BRL,2019-01-08T19:39:40Z,suspended
+1c8daafd-c1f9-439b-aec4-c14c145935c3,Gabriel,Souza,CPF,449.463.949-91,gabriel.souza64@hotmail.com,35916206227,"Rio de Janeiro, RJ",Rio de Janeiro,RJ,Brasil,BRL,2023-11-09 11:44:06,suspended
+dc71503f-79a9-4052-a097-df62bcf49c9e,Marcos,Souza,Cpf,957.788.702-25,marcos.souza56@uol.com.br,,Rua das Flores 1846,Brasília,DF,Brasil,BRL,2023-08-28T04:31:00Z,INATIVO
+3db642c6-d156-4714-ae61-7798d03d7758,  Letícia , Almeida  ,cpf,401.563.924-27,letícia.almeida95@live.com,(38) 93291-4435,Av. Atlântica 566,Porto Alegre,RS,Brasil,BRL,2023-09-30T09:53:44Z,active
+ab1aecb2-bece-4149-a16f-761982250a8e,  Valentina , Rodríguez  ,RFC,PYSR858401NBC,valentina.rodríguez97@hotmail.com,,"Calle Juárez, nº 660, Querétaro/QRO",Querétaro,QRO,MX,mxn,23/10/2020 04:53,Ativo
+a0cc33a6-12a2-4267-9dbe-5f5a079124b5,Santiago Pérez,,RFC,YZIO0267886ZX,santiago.pérez88@hotmail.com,,"Puebla, PUE",Puebla,PUE,MX,Pesos,15/03/2020 23:12,active
+65baa4b5-252d-4361-9d59-f5ad95e143a0,  Juan , Hernández  ,CEDULA,98837400,juan.hernández29@uol.com.br,+5534969874593,"Bogotá, DC",Bogotá,DC,Colombia,cop,03/03/2024 11:04,Ativo
+1f153b58-00f4-4ab8-be0b-c1fb13443076,  Regina , González  ,RFC,NZVZ0649668YL,regina.gonzález66@uol.com.br,(16) 94856-4154,"Blvd. Manuel Ávila Camacho, nº 1581, Guadalajara/JAL",Guadalajara,JAL,MX,MXN,2024-01-22T23:18:01Z,ativo
+d22e036c-13c7-4f95-8ee6-d3dd49213dc1,  André , Rodrigues  ,CPF,310.650.948-99,andré.rodrigues12@gmail.com,44954711545,"Av. Atlântica, 1783, Goiânia - GO",Goiânia,GO,Brasil,BRL,22/09/2019 00:29,bloqueado
+4cb702dd-88d2-4a61-93a2-ec06d8103872,  Isabela , Souza  ,Cpf,837.733.164-84,isabela.souza12@uol.com.br,(59) 96473-1504,"Rua das Flores, 187, Fortaleza - CE",Fortaleza,CE,Brasil,BRL,2022-01-05T16:06:18Z,bloqueado
+d0674f6d-d6e5-4b80-91be-8bfa808bc8d8,  Mateo , González  ,RFC,OODA559379MOX,mateo.gonzález15@hotmail.com,+526996526748,Av. Reforma 584 Monterrey NL,Monterrey,NL,MX,Pesos,2020-01-24T07:39:53Z,ATIVO
+9de8d5ec-a618-4dfc-bc8d-9f847542e326,Bruno Ribeiro,,CPF,787.771.340-22,bruno.ribeiro79@outlook.com,57942457517,"Salvador, BA",Salvador,BA,Brasil,BRL,2018-10-13 06:20:31,ativo
+0db5e0bf-36af-43eb-81d4-eb0efe2763ff,Sebastián Rodríguez,,RFC,WMJH516881TJ5,sebastián.rodríguez28@uol.com.br,30949099345,"Av. Insurgentes, 309, Guadalajara - JAL",Guadalajara,JAL,mexico,MXN,2023-09-09 20:01:52,inativo
+718099fd-24ff-4cdd-a60e-4f50d2bdde3c,  Isabela , Almeida  ,Cpf,243.556.263-32,isabela.almeida29@gmail.com,,"Campinas, SP",Campinas,SP,Brasil,BRL,22/08/2019 23:46,bloqueado
+a407fc3a-e23e-4207-8c37-c23ca763201b,Maria Santos,,CPF,820.633.748-45,maria.santos76@outlook.com,+523879306247,"Goiânia, GO",Goiânia,GO,Brasil,BRL,08/02/2024 18:11,suspended
+7ade4ae8-d577-41af-b992-a8e800acf1ee,Leonardo,Pereira,CPF,178.626.758-45,leonardo.pereira30@live.com,86921642106,Rua XV de Novembro 867 Recife PE,Recife,PE,Brasil,BRL,2020-02-05 05:23:38,Ativo
+bb0eba97-3897-4405-bb7e-8128dfd9babe,  Leonardo , Correia  ,CPF,364.284.629-61,leonardo.correia28@gmail.com,,"Belo Horizonte, MG",Belo Horizonte,MG,Brasil,BRL,2018-03-18 23:46:42,inativo
+92e5516b-e50b-4692-90bb-e3851395b233,Catalina,Díaz,CEDULA,36096655,CATALINA.DÍAZ55@GMAIL.COM,,Carrera 15 2025,Barranquilla,ATL,colombia,cop,26/09/2020 04:41,INATIVO
+03d1c707-30ac-42af-a535-eddf0b5d7e88,CARLOS,MARTINS,cpf,881.178.687-27,CARLOS.MARTINS4@GMAIL.COM,,"Rua Oscar Freire, nº 2169, Salvador/BA",Salvador,BA,Brasil,BRL,19/06/2022 10:41,suspended
+14add428-9619-43b9-a3f1-716c7e148273,MARIA,CARVALHO,Cpf,816.873.339-64,MARIA.CARVALHO29@UOL.COM.BR,,"Rua Augusta, 374, Goiânia - GO",Goiânia,GO,Brasil,BRL,05/01/2018 06:30,ATIVO
+7cd14a1a-c921-413e-ab11-dc1dca08cccd,RAFAEL,OLIVEIRA,Cpf,714.838.722-46,RAFAEL.OLIVEIRA51@LIVE.COM,,"Av. Presidente Vargas, nº 110, Curitiba/PR",Curitiba,PR,Brasil,BRL,2020-04-21 16:38:32,ativo
+df9115a3-fd5e-437b-8318-e7856cfad62e,Catalina Díaz,,CEDULA,93652460,CATALINA.DÍAZ5@UOL.COM.BR,,"Av. El Dorado, nº 329, Cali/VAC",Cali,VAC,Colombia,cop,26/12/2023 12:20,active
+912375d5-eb60-4882-bf36-252c7f8472fd,André Santos,,Cpf,411.187.354-25,ANDRÉ.SANTOS76@OUTLOOK.COM,,Rua XV de Novembro 2286,Belo Horizonte,MG,Brasil,BRL,2020-07-13 16:24:28,Ativo
+7f5df058-f102-4d56-9f53-b3b5dc151a65,LETÍCIA,MARTINS,Cpf,981.111.796-24,LETÍCIA.MARTINS1@YAHOO.COM.BR,,"Rua Augusta, nº 2200, Fortaleza/CE",Fortaleza,CE,Brasil,BRL,2021-10-25 03:18:27,active
+fdbe0957-10c9-4ccb-b047-3d9cf12339cd,BEATRIZ,SOUZA,Cpf,639.138.777-53,BEATRIZ.SOUZA57@LIVE.COM,,"Fortaleza, CE",Fortaleza,CE,Brasil,BRL,2022-03-24 04:10:11,inativo

@@ -1,0 +1,11 @@
+codigo_produto,nome_produto,categoria,pais,data_lancamento
+CC,Cartão de Crédito,credito,BR,2014-05-01
+CC,Tarjeta de Crédito,credito,MX,2019-03-15
+CC,Tarjeta de Crédito,credito,CO,2020-11-01
+CONTA,Conta Corrente,banking,BR,2017-10-01
+CONTA,Cuenta,banking,MX,2020-06-01
+CONTA,Cuenta,banking,CO,2021-01-15
+EMPRESTIMO,Empréstimo Pessoal,credito,BR,2019-08-01
+SEGURO,Seguro de Vida,seguros,BR,2020-12-01
+INVEST,NuInvest,investimento,BR,2021-06-01
+REWARDS,Rewards,loyalty,BR,2018-01-01

@@ -1,0 +1,4 @@
+country_id,country_code_iso2,country_code_iso3,country_name,default_currency_code,regulatory_regime,launched_at
+1,BR,BRA,Brasil,BRL,BCB,2013-05-01
+2,MX,MEX,México,MXN,CNBV,2019-03-01
+3,CO,COL,Colombia,COP,SFC,2020-06-01

@@ -1,0 +1,40 @@
+name: 'databricks_dbt'
+version: '1.0.0'
+profile: 'databricks_dbt'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  databricks_dbt:
+    staging:
+      +materialized: view
+      +tags: ['staging']
+    intermediate:
+      +materialized: ephemeral
+    marts:
+      dimensions:
+        +materialized: table
+        +tags: ['marts']
+      facts:
+        +materialized: table
+        +tags: ['marts']
+      product_details:
+        +materialized: table
+        +tags: ['marts']
+
+seeds:
+  databricks_dbt:
+    +schema: reference
+
+snapshots:
+  databricks_dbt:
+    +target_schema: snapshots

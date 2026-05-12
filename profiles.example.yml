@@ -1,0 +1,23 @@
+i# Copy this to ~/.dbt/profiles.yml and fill in your credentials.
+# DO NOT commit this file to git.
+
+databricks_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: databricks
+      catalog: workspace
+      schema: "dev_{{ env_var('DBT_USER', 'your_name') }}"
+      host: "{{ env_var('DATABRICKS_HOST') }}"
+      http_path: "{{ env_var('DATABRICKS_HTTP_PATH') }}"
+      token: "{{ env_var('DATABRICKS_TOKEN') }}"
+      threads: 4
+
+    prod:
+      type: databricks
+      catalog: workspace
+      schema: marts
+      host: "{{ env_var('DATABRICKS_HOST') }}"
+      http_path: "{{ env_var('DATABRICKS_HTTP_PATH') }}"
+      token: "{{ env_var('DATABRICKS_TOKEN') }}"
+      threads: 8
